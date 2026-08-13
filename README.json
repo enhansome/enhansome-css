@@ -1,0 +1,900 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "This document is a curated list of frameworks, style guides, and cool nuggets of information for writing awesome CSS. It does not contain resources to learn CSS.",
+      "items": [],
+      "title": "Motivation"
+    },
+    {
+      "description": "The CSS Working Group creates and defines CSS specifications. These specifications are assigned maturity levels as they move through the design process. If you would like to learn more, visit CSS Working Group Page.",
+      "items": [],
+      "title": "CSS Working Group"
+    },
+    {
+      "description": "Editor's drafts of CSS specifications",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "W3c/csswg-drafts",
+          "description": "Mirror of CSS WG Editor Draft repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bikeshed",
+            "last_commit": "2026-08-12T21:10:59Z",
+            "owner": "w3c",
+            "repo": "csswg-drafts",
+            "stars": 4859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "W3c/css-houdini-drafts",
+          "description": "Mirror of Houdini WG Editor repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bikeshed",
+            "last_commit": "2026-08-06T15:57:16Z",
+            "owner": "w3c",
+            "repo": "css-houdini-drafts",
+            "stars": 1890
+          }
+        }
+      ],
+      "title": "Editor's Draft :black_nib:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostCSS",
+          "description": "Transforming styles with JS plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T11:35:38Z",
+            "owner": "postcss",
+            "repo": "postcss",
+            "stars": 28979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rework",
+          "description": "Plugin framework for CSS preprocessing in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-04T08:48:36Z",
+            "owner": "reworkcss",
+            "repo": "rework",
+            "stars": 2740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSTree",
+          "description": "Detailed CSS parser with syntax validator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-05T14:58:51Z",
+            "owner": "csstree",
+            "repo": "csstree",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSOM",
+          "description": "CSS Object Model implemented in pure JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T01:21:40Z",
+            "owner": "NV",
+            "repo": "CSSOM",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gonzales PE",
+          "description": "CSS parser with support for preprocessors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-17T11:05:58Z",
+            "owner": "tonyganch",
+            "repo": "gonzales-pe",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParserLib",
+          "description": "CSSLint/parser-lib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T14:12:21Z",
+            "owner": "CSSLint",
+            "repo": "parser-lib",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylecow",
+          "description": "Modern CSS for all browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-28T19:39:28Z",
+            "owner": "stylecow",
+            "repo": "stylecow",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mensch",
+          "description": "A decent CSS parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-11T03:40:00Z",
+            "owner": "brettstimmerman",
+            "repo": "mensch",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Parsers :mag:"
+    },
+    {
+      "description": "Write CSS faster",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostCSS",
+          "description": "Transforming CSS with JS plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T11:35:38Z",
+            "owner": "postcss",
+            "repo": "postcss",
+            "stars": 28979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LESS",
+          "description": "Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T23:39:54Z",
+            "owner": "less",
+            "repo": "less.js",
+            "stars": 17025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sass",
+          "description": "Mature, stable, and powerful professional-grade CSS extension language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:07:29Z",
+            "owner": "sass",
+            "repo": "sass",
+            "stars": 15375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STYLIS",
+          "description": "Light-weight CSS preprocessor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-19T14:27:06Z",
+            "owner": "thysultan",
+            "repo": "stylis",
+            "stars": 1772
+          }
+        }
+      ],
+      "title": "Preprocessors :pill:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tailwindcss",
+          "description": "A utility-first CSS framework for rapid UI development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:01:14Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss",
+            "stars": 97227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-components-web",
+          "description": "Modular and customizable Material Design UI components for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T20:42:50Z",
+            "owner": "material-components",
+            "repo": "material-components-web",
+            "stars": 17062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shorthand Framework",
+          "description": "Feature rich CSS framework for the new decade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-12-10T18:12:35Z",
+            "owner": "shorthandcss",
+            "repo": "shorthand",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strawberry",
+          "description": "A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-07-04T15:19:53Z",
+            "owner": "jfet97",
+            "repo": "strawberry",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasser CSS",
+          "description": "A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-19T18:10:42Z",
+            "owner": "rich1richard",
+            "repo": "HasserCSS",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Frameworks :art:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Normalize",
+          "description": "A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-12T20:36:06Z",
+            "owner": "necolas",
+            "repo": "normalize.css",
+            "stars": 53539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanitize.css",
+          "description": "A set of CSS rules that style with today’s best practices out-of-the-box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-26T11:31:36Z",
+            "owner": "csstools",
+            "repo": "sanitize.css",
+            "stars": 5298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniReset.css",
+          "description": "A tiny modern CSS reset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-11T11:58:27Z",
+            "owner": "jgthms",
+            "repo": "minireset.css",
+            "stars": 2802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reseter.css",
+          "description": "A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-04-29T14:16:17Z",
+            "owner": "kkrishguptaa",
+            "repo": "reseter.css",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Normalize-OpenType",
+          "description": "Adds OpenType features—ligatures, kerning, and more—to Normalize.css.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-09-01T06:43:00Z",
+            "owner": "kennethormandy",
+            "repo": "normalize-opentype.css",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Checker",
+          "description": "Find and Reduce Similar & Duplicated CSS Scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-15T08:20:25Z",
+            "owner": "ruilisi",
+            "repo": "css-checker",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unstyle.css",
+          "description": "Specialised stylesheet for removing user agent styles, style the web with your baseline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-01-16T03:46:56Z",
+            "owner": "Martin-Pitt",
+            "repo": "css-unstyle",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Reset and Normalize"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Idiomatic CSS",
+          "description": "by Nicolas Gallagher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-21T12:01:30Z",
+            "owner": "necolas",
+            "repo": "idiomatic-css",
+            "stars": 6651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkUp CSS Style Guide",
+          "description": "by ThinkUp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-01-01T13:57:56Z",
+            "owner": "ThinkUpLLC",
+            "repo": "ThinkUp",
+            "stars": 3265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropbox (S)CSS Style Guide",
+          "description": "by Dropbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-08T08:25:39Z",
+            "owner": "dropbox",
+            "repo": "css-style-guide",
+            "stars": 1216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Styleguide",
+          "description": "by Guilherme Rv Coelho",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-04-27T03:20:45Z",
+            "owner": "grvcoelho",
+            "repo": "css-styleguide",
+            "stars": 419
+          }
+        }
+      ],
+      "title": "Code Style Guidelines :book:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hologram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-10T12:27:31Z",
+            "owner": "trulia",
+            "repo": "hologram",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sc5-styleguide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-16T02:34:17Z",
+            "owner": "SC5",
+            "repo": "sc5-styleguide",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Styledocco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-20T22:37:04Z",
+            "owner": "jacobrask",
+            "repo": "styledocco",
+            "stars": 1063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdcss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-04-05T18:22:25Z",
+            "owner": "csstools",
+            "repo": "mdcss",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Styledown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-21T02:42:52Z",
+            "owner": "styledown",
+            "repo": "styledown",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-14T15:01:06Z",
+            "owner": "sourcejs",
+            "repo": "Source",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Styledoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-02-03T10:40:36Z",
+            "owner": "Joony",
+            "repo": "styledoc",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Style Guide Generators :slot_machine:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Styled-components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:35:04Z",
+            "owner": "styled-components",
+            "repo": "styled-components",
+            "stars": 41127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Styled-jsx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T16:20:50Z",
+            "owner": "vercel",
+            "repo": "styled-jsx",
+            "stars": 7776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-13T19:53:12Z",
+            "owner": "cssinjs",
+            "repo": "jss",
+            "stars": 7057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aphrodite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-24T18:52:57Z",
+            "owner": "Khan",
+            "repo": "aphrodite",
+            "stars": 5339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Css-loader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:43:52Z",
+            "owner": "webpack",
+            "repo": "css-loader",
+            "stars": 4321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-with-styles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-12T15:00:31Z",
+            "owner": "airbnb",
+            "repo": "react-with-styles",
+            "stars": 1691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Csjs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-16T18:12:57Z",
+            "owner": "rtsao",
+            "repo": "csjs",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babel-plugin-css-in-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-26T13:07:29Z",
+            "owner": "martinandert",
+            "repo": "babel-plugin-css-in-js",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-30T07:10:52Z",
+            "owner": "sultan99",
+            "repo": "stylin",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-styled",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-30T11:56:31Z",
+            "owner": "bloodyowl",
+            "repo": "react-styled",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-03T22:06:38Z",
+            "owner": "inturn",
+            "repo": "classy",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "CSS in JS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prefixfree",
+          "description": "Break free from CSS prefix hell.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-13T20:37:47Z",
+            "owner": "LeaVerou",
+            "repo": "prefixfree",
+            "stars": 3786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIE",
+          "description": "Allows Internet Explorer to recognize and render various CSS3 box decoration properties.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-08-05T17:20:04Z",
+            "owner": "lojjic",
+            "repo": "PIE",
+            "stars": 2764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selectivizr",
+          "description": "A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-18T05:58:26Z",
+            "owner": "keithclark",
+            "repo": "selectivizr",
+            "stars": 1690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fixed-sticky",
+          "description": "A CSS position:sticky polyfill.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T15:33:56Z",
+            "owner": "filamentgroup",
+            "repo": "fixed-sticky",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyfill.js",
+          "description": "A library to make creating CSS polyfills much easier.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-12-23T01:03:54Z",
+            "owner": "philipwalton",
+            "repo": "polyfill",
+            "stars": 297
+          }
+        }
+      ],
+      "title": "CSS Polyfills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Single Div Project",
+          "description": "One . Many possibilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-07-19T21:33:46Z",
+            "owner": "manrajgrover",
+            "repo": "SingleDivProject",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RevengeCSS",
+          "description": "A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-18T11:36:07Z",
+            "owner": "Heydon",
+            "repo": "REVENGE.CSS",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live editor for CSS and LESS",
+          "description": "Magic CSS extension for Chrome, Firefox and Edge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-21T23:10:03Z",
+            "owner": "webextensions",
+            "repo": "live-css-editor",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xpath-to-selector",
+          "description": "Convert xpath to css selector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-28T06:46:52Z",
+            "owner": "steambap",
+            "repo": "xpath-to-selector",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "*Good study videos from CSS Must Watch Videos. Some items are quoted from AllThingsSmitty/must-watch-css.\nI told him on Twitter. I appreciate his valuable efforts.*",
+      "items": [],
+      "title": "Videos :tv:"
+    },
+    {
+      "description": "@sotayamashita, @Rishabh04-02 and You!",
+      "items": [],
+      "title": "Maintainers"
+    },
+    {
+      "description": "Feel free to dive in! Open an issue or submit PRs.\nAwesome CSS follows the Contributor Covenant Code of Conduct.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:47:46.459Z",
+    "original_repository": "awesome-css-group/awesome-css",
+    "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
+    "enhanced_repository": "enhansome/enhansome-css",
+    "enhanced_repository_description": null,
+    "title": "Awesome CSS with stars"
+  }
+}
