@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bikeshed",
-            "last_commit": "2026-08-12T21:10:59Z",
+            "last_commit": "2026-08-14T10:11:38Z",
             "owner": "w3c",
             "repo": "csswg-drafts",
             "stars": 4859
@@ -60,7 +60,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T11:35:38Z",
+            "last_commit": "2026-08-14T11:09:12Z",
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28979
@@ -178,7 +178,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T11:35:38Z",
+            "last_commit": "2026-08-14T11:09:12Z",
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28979
@@ -192,10 +192,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T23:39:54Z",
+            "last_commit": "2026-08-13T22:21:40Z",
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025
+            "stars": 17026
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-13T00:07:29Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15375
+            "stars": 15374
           }
         },
         {
@@ -240,10 +240,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:01:14Z",
+            "last_commit": "2026-08-14T10:16:03Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97227
+            "stars": 97248
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53539
+            "stars": 53537
           }
         },
         {
@@ -890,7 +890,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:47:46.459Z",
+    "last_updated": "2026-08-14T11:43:52.730Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
