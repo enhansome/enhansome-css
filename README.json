@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:09:12Z",
+            "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28978
+            "stars": 28979
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-03-05T14:58:51Z",
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -178,10 +178,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:09:12Z",
+            "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28978
+            "stars": 28979
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-13T00:07:29Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15373
+            "stars": 15372
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97229
+            "stars": 97248
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53533
+            "stars": 53532
           }
         },
         {
@@ -359,7 +359,7 @@
             "archived": false,
             "language": "SCSS",
             "last_commit": "2026-04-29T14:16:17Z",
-            "owner": "kkrishguptaa",
+            "owner": "ikrishg",
             "repo": "reseter.css",
             "stars": 1243
           }
@@ -586,10 +586,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T17:35:04Z",
+            "last_commit": "2026-08-15T22:30:42Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125
+            "stars": 41122
           }
         },
         {
@@ -890,7 +890,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:20:42.469Z",
+    "last_updated": "2026-08-16T11:20:53.050Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
