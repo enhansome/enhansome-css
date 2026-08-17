@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bikeshed",
-            "last_commit": "2026-08-14T23:20:40Z",
+            "last_commit": "2026-08-17T10:30:36Z",
             "owner": "w3c",
             "repo": "csswg-drafts",
             "stars": 4860
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-06T15:57:16Z",
             "owner": "w3c",
             "repo": "css-houdini-drafts",
-            "stars": 1890
+            "stars": 1888
           }
         }
       ],
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28979
+            "stars": 28977
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28979
+            "stars": 28977
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-13T22:21:40Z",
             "owner": "less",
             "repo": "less.js",
-            "stars": 17027
+            "stars": 17028
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-13T00:07:29Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15372
+            "stars": 15374
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97248
+            "stars": 97225
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17061
+            "stars": 17057
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53532
+            "stars": 53518
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-04-29T14:16:17Z",
             "owner": "ikrishg",
             "repo": "reseter.css",
-            "stars": 1243
+            "stars": 1242
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2017-01-01T13:57:56Z",
             "owner": "ThinkUpLLC",
             "repo": "ThinkUp",
-            "stars": 3265
+            "stars": 3264
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2023-08-10T12:27:31Z",
             "owner": "trulia",
             "repo": "hologram",
-            "stars": 2174
+            "stars": 2167
           }
         },
         {
@@ -586,7 +586,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:30:42Z",
+            "last_commit": "2026-08-17T03:27:37Z",
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41122
@@ -617,7 +617,7 @@
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7057
+            "stars": 7056
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-12T19:43:52Z",
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4321
+            "stars": 4320
           }
         },
         {
@@ -890,7 +890,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:20:53.050Z",
+    "last_updated": "2026-08-17T11:26:45.761Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
