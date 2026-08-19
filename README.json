@@ -55,7 +55,7 @@
             "archived": false,
             "id": 13078968,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:18:51Z",
+            "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28981
@@ -181,7 +181,7 @@
             "archived": false,
             "id": 13078968,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:18:51Z",
+            "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28981
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97281
+            "stars": 97282
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17055
+            "stars": 17056
           }
         },
         {
@@ -924,8 +924,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:26:20.487Z",
+    "last_updated": "2026-08-19T12:21:22.433Z",
     "original_repository": "awesome-css-group/awesome-css",
+    "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
     "enhanced_repository_description": null,
