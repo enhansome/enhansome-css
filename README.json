@@ -1,56 +1,50 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "This document is a curated list of frameworks, style guides, and cool nuggets of information for writing awesome CSS. It does not contain resources to learn CSS.",
-      "items": [],
-      "title": "Motivation"
-    },
-    {
       "description": "The CSS Working Group creates and defines CSS specifications. These specifications are assigned maturity levels as they move through the design process. If you would like to learn more, visit CSS Working Group Page.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "W3c/csswg-drafts",
+              "description": "Mirror of CSS WG Editor Draft repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9252268,
+                "language": "Bikeshed",
+                "last_commit": "2026-08-19T10:58:30Z",
+                "owner": "w3c",
+                "repo": "csswg-drafts",
+                "stars": 4862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "W3c/css-houdini-drafts",
+              "description": "Mirror of Houdini WG Editor repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28618196,
+                "language": "Bikeshed",
+                "last_commit": "2026-08-06T15:57:16Z",
+                "owner": "w3c",
+                "repo": "css-houdini-drafts",
+                "stars": 1888
+              }
+            }
+          ],
+          "description": "Editor's drafts of CSS specifications",
+          "node_type": "group",
+          "title": "Editor's Draft :black_nib:"
+        }
+      ],
       "title": "CSS Working Group"
     },
     {
-      "description": "Editor's drafts of CSS specifications",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "W3c/csswg-drafts",
-          "description": "Mirror of CSS WG Editor Draft repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bikeshed",
-            "last_commit": "2026-08-18T09:29:52Z",
-            "owner": "w3c",
-            "repo": "csswg-drafts",
-            "stars": 4862
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "W3c/css-houdini-drafts",
-          "description": "Mirror of Houdini WG Editor repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bikeshed",
-            "last_commit": "2026-08-06T15:57:16Z",
-            "owner": "w3c",
-            "repo": "css-houdini-drafts",
-            "stars": 1888
-          }
-        }
-      ],
-      "title": "Editor's Draft :black_nib:"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,11 +53,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13078968,
             "language": "TypeScript",
             "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28980
+            "stars": 28981
           }
         },
         {
@@ -73,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5032833,
             "language": "JavaScript",
             "last_commit": "2026-06-04T08:48:36Z",
             "owner": "reworkcss",
@@ -87,11 +83,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67236461,
             "language": "JavaScript",
             "last_commit": "2026-03-05T14:58:51Z",
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2115
+            "stars": 2116
           }
         },
         {
@@ -101,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025209,
             "language": "JavaScript",
             "last_commit": "2023-04-18T01:21:40Z",
             "owner": "NV",
@@ -115,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13370349,
             "language": "JavaScript",
             "last_commit": "2026-01-17T11:05:58Z",
             "owner": "tonyganch",
@@ -129,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292509,
             "language": "JavaScript",
             "last_commit": "2024-12-05T14:12:21Z",
             "owner": "CSSLint",
@@ -143,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22479740,
             "language": "JavaScript",
             "last_commit": "2020-02-28T19:39:28Z",
             "owner": "stylecow",
@@ -157,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10633258,
             "language": "JavaScript",
             "last_commit": "2023-02-11T03:40:00Z",
             "owner": "brettstimmerman",
@@ -177,11 +179,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13078968,
             "language": "TypeScript",
             "last_commit": "2026-08-15T20:18:51Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28980
+            "stars": 28981
           }
         },
         {
@@ -191,11 +194,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527644,
             "language": "JavaScript",
             "last_commit": "2026-08-13T22:21:40Z",
             "owner": "less",
             "repo": "less.js",
-            "stars": 17027
+            "stars": 17026
           }
         },
         {
@@ -205,11 +209,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929845,
             "language": "TypeScript",
             "last_commit": "2026-08-13T00:07:29Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15371
+            "stars": 15370
           }
         },
         {
@@ -219,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74873203,
             "language": "JavaScript",
             "last_commit": "2026-04-19T14:27:06Z",
             "owner": "thysultan",
@@ -230,7 +236,7 @@
       "title": "Preprocessors :pill:"
     },
     {
-      "description": "",
+      "description": "You can find more frameworks at \"awesome-css-frameworks\"",
       "items": [
         {
           "node_type": "item",
@@ -239,11 +245,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106017343,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97272
+            "stars": 97281
           }
         },
         {
@@ -253,11 +260,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75642389,
             "language": "TypeScript",
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17056
+            "stars": 17055
           }
         },
         {
@@ -267,6 +275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240447499,
             "language": "SCSS",
             "last_commit": "2022-12-10T18:12:35Z",
             "owner": "shorthandcss",
@@ -281,6 +290,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136215488,
             "language": "CSS",
             "last_commit": "2019-07-04T15:19:53Z",
             "owner": "jfet97",
@@ -295,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238908524,
             "language": "HTML",
             "last_commit": "2020-08-19T18:10:42Z",
             "owner": "rich1richard",
@@ -306,7 +317,7 @@
       "title": "Frameworks :art:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -315,11 +326,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1700621,
             "language": "CSS",
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53520
+            "stars": 53521
           }
         },
         {
@@ -329,6 +341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6566489,
             "language": "CSS",
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
@@ -343,6 +356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66643668,
             "language": "JavaScript",
             "last_commit": "2024-07-11T11:58:27Z",
             "owner": "jgthms",
@@ -357,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337284161,
             "language": "SCSS",
             "last_commit": "2026-04-29T14:16:17Z",
             "owner": "ikrishg",
@@ -371,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20636904,
             "language": "HTML",
             "last_commit": "2017-09-01T06:43:00Z",
             "owner": "kennethormandy",
@@ -385,6 +401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462083250,
             "language": "Go",
             "last_commit": "2022-11-15T08:20:25Z",
             "owner": "ruilisi",
@@ -399,6 +416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19798295,
             "language": "CSS",
             "last_commit": "2024-01-16T03:46:56Z",
             "owner": "Martin-Pitt",
@@ -410,7 +428,7 @@
       "title": "Reset and Normalize"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -419,6 +437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4431560,
             "language": null,
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
@@ -433,6 +452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220418,
             "language": "PHP",
             "last_commit": "2017-01-01T13:57:56Z",
             "owner": "ThinkUpLLC",
@@ -447,6 +467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44996791,
             "language": null,
             "last_commit": "2019-11-08T08:25:39Z",
             "owner": "dropbox",
@@ -461,6 +482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47085678,
             "language": null,
             "last_commit": "2016-04-27T03:20:45Z",
             "owner": "grvcoelho",
@@ -472,7 +494,7 @@
       "title": "Code Style Guidelines :book:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -481,6 +503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9228086,
             "language": "Ruby",
             "last_commit": "2023-08-10T12:27:31Z",
             "owner": "trulia",
@@ -495,6 +518,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24668894,
             "language": "JavaScript",
             "last_commit": "2022-12-16T02:34:17Z",
             "owner": "SC5",
@@ -509,6 +533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3553459,
             "language": "JavaScript",
             "last_commit": "2018-02-20T22:37:04Z",
             "owner": "jacobrask",
@@ -523,6 +548,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45187348,
             "language": "JavaScript",
             "last_commit": "2018-04-05T18:22:25Z",
             "owner": "csstools",
@@ -537,6 +563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17241211,
             "language": "JavaScript",
             "last_commit": "2017-07-21T02:42:52Z",
             "owner": "styledown",
@@ -551,6 +578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9578262,
             "language": "JavaScript",
             "last_commit": "2025-03-14T15:01:06Z",
             "owner": "sourcejs",
@@ -565,6 +593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3137962,
             "language": "JavaScript",
             "last_commit": "2012-02-03T10:40:36Z",
             "owner": "Joony",
@@ -576,7 +605,7 @@
       "title": "Style Guide Generators :slot_machine:"
     },
     {
-      "description": "",
+      "description": "Here is a CSS in JS techniques comparison",
       "items": [
         {
           "node_type": "item",
@@ -585,11 +614,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65794292,
             "language": "TypeScript",
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41119
+            "stars": 41121
           }
         },
         {
@@ -599,6 +629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75629834,
             "language": "JavaScript",
             "last_commit": "2026-06-09T16:20:50Z",
             "owner": "vercel",
@@ -613,11 +644,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25131304,
             "language": "JavaScript",
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056
+            "stars": 7055
           }
         },
         {
@@ -627,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43790903,
             "language": "JavaScript",
             "last_commit": "2025-07-24T18:52:57Z",
             "owner": "Khan",
@@ -641,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3954884,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:43:52Z",
             "owner": "webpack",
@@ -655,6 +689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66389842,
             "language": "JavaScript",
             "last_commit": "2024-04-12T15:00:31Z",
             "owner": "airbnb",
@@ -669,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42906765,
             "language": "JavaScript",
             "last_commit": "2017-02-16T18:12:57Z",
             "owner": "rtsao",
@@ -683,6 +719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46269792,
             "language": "JavaScript",
             "last_commit": "2017-08-26T13:07:29Z",
             "owner": "martinandert",
@@ -697,6 +734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338078634,
             "language": "TypeScript",
             "last_commit": "2025-01-30T07:10:52Z",
             "owner": "sultan99",
@@ -711,6 +749,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32727032,
             "language": "JavaScript",
             "last_commit": "2016-05-30T11:56:31Z",
             "owner": "bloodyowl",
@@ -725,6 +764,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40736800,
             "language": "JavaScript",
             "last_commit": "2017-08-03T22:06:38Z",
             "owner": "inturn",
@@ -736,7 +776,7 @@
       "title": "CSS in JS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -745,6 +785,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2556901,
             "language": "JavaScript",
             "last_commit": "2021-10-13T20:37:47Z",
             "owner": "LeaVerou",
@@ -759,6 +800,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 560347,
             "language": "HTML",
             "last_commit": "2018-08-05T17:20:04Z",
             "owner": "lojjic",
@@ -773,6 +815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1303411,
             "language": "JavaScript",
             "last_commit": "2017-02-18T05:58:26Z",
             "owner": "keithclark",
@@ -787,6 +830,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13336304,
             "language": "JavaScript",
             "last_commit": "2017-06-28T15:33:56Z",
             "owner": "filamentgroup",
@@ -801,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9741954,
             "language": "JavaScript",
             "last_commit": "2016-12-23T01:03:54Z",
             "owner": "philipwalton",
@@ -812,7 +857,7 @@
       "title": "CSS Polyfills"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -821,6 +866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54322254,
             "language": "HTML",
             "last_commit": "2021-07-19T21:33:46Z",
             "owner": "manrajgrover",
@@ -835,6 +881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11629018,
             "language": "CSS",
             "last_commit": "2024-07-18T11:36:07Z",
             "owner": "Heydon",
@@ -849,6 +896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87470794,
             "language": "JavaScript",
             "last_commit": "2025-12-21T23:10:03Z",
             "owner": "webextensions",
@@ -863,6 +911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299222488,
             "language": "TypeScript",
             "last_commit": "2023-03-28T06:46:52Z",
             "owner": "steambap",
@@ -872,25 +921,10 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "*Good study videos from CSS Must Watch Videos. Some items are quoted from AllThingsSmitty/must-watch-css.\nI told him on Twitter. I appreciate his valuable efforts.*",
-      "items": [],
-      "title": "Videos :tv:"
-    },
-    {
-      "description": "@sotayamashita, @Rishabh04-02 and You!",
-      "items": [],
-      "title": "Maintainers"
-    },
-    {
-      "description": "Feel free to dive in! Open an issue or submit PRs.\nAwesome CSS follows the Contributor Covenant Code of Conduct.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:25:52.995Z",
+    "last_updated": "2026-08-19T11:26:20.487Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
