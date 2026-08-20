@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 9252268,
                 "language": "Bikeshed",
-                "last_commit": "2026-08-19T10:58:30Z",
+                "last_commit": "2026-08-19T20:38:25Z",
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4862
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28981
+            "stars": 28983
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2026-03-05T14:58:51Z",
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2116
+            "stars": 2115
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28981
+            "stars": 28983
           }
         },
         {
@@ -211,10 +211,10 @@
             "archived": false,
             "id": 929845,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:07:29Z",
+            "last_commit": "2026-08-19T21:53:45Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15370
+            "stars": 15371
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97282
+            "stars": 97287
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17056
+            "stars": 17055
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53521
+            "stars": 53519
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2019-11-08T08:25:39Z",
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1216
+            "stars": 1215
           }
         },
         {
@@ -619,7 +619,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121
+            "stars": 41123
           }
         },
         {
@@ -901,7 +901,7 @@
             "last_commit": "2025-12-21T23:10:03Z",
             "owner": "webextensions",
             "repo": "live-css-editor",
-            "stars": 314
+            "stars": 316
           }
         },
         {
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:22.433Z",
+    "last_updated": "2026-08-20T11:26:50.327Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
