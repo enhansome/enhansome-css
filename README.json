@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9252268,
                 "language": "Bikeshed",
-                "last_commit": "2026-08-20T19:53:39Z",
+                "last_commit": "2026-08-21T21:05:54Z",
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4863
+                "stars": 4865
               }
             },
             {
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28982
+            "stars": 28981
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2026-03-05T14:58:51Z",
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2116
+            "stars": 2117
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28982
+            "stars": 28981
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-19T21:53:45Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15372
+            "stars": 15373
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97293
+            "stars": 97290
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17056
+            "stars": 17055
           }
         },
         {
@@ -619,7 +619,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41120
+            "stars": 41121
           }
         },
         {
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:26:31.574Z",
+    "last_updated": "2026-08-22T11:20:55.371Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",

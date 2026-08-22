@@ -70,14 +70,14 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,863 | 🐛 4,663 | 🌐 Bikeshed | 📅 2026-08-20 - Mirror of CSS WG Editor Draft repository.
+* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,865 | 🐛 4,662 | 🌐 Bikeshed | 📅 2026-08-21 - Mirror of CSS WG Editor Draft repository.
 * [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,888 | 🐛 282 | 🌐 Bikeshed | 📅 2026-08-06 - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,982 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-19 - Transforming styles with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,981 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-19 - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) ⭐ 2,740 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
-* [CSSTree](https://github.com/csstree/csstree) ⭐ 2,116 | 🐛 71 | 🌐 JavaScript | 📅 2026-03-05 - Detailed CSS parser with syntax validator.
+* [CSSTree](https://github.com/csstree/csstree) ⭐ 2,117 | 🐛 71 | 🌐 JavaScript | 📅 2026-03-05 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 758 | 🐛 25 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) ⭐ 328 | 🐛 46 | 🌐 JavaScript | 📅 2026-01-17 - CSS parser with support for preprocessors.
 * [ParserLib](https://github.com/CSSLint/parser-lib) ⭐ 294 | 🐛 24 | 🌐 JavaScript | 📅 2024-12-05 - CSSLint/parser-lib.
@@ -90,9 +90,9 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,982 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-19 - Transforming CSS with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,981 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-19 - Transforming CSS with JS plugins.
 * [LESS](https://github.com/less/less.js) ⭐ 17,026 | 🐛 181 | 🌐 JavaScript | 📅 2026-08-13 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-* [Sass](https://github.com/sass/sass) ⭐ 15,372 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-19 - Mature, stable, and powerful professional-grade CSS extension language.
+* [Sass](https://github.com/sass/sass) ⭐ 15,373 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-19 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,772 | 🐛 16 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 * [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,293 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,290 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -131,7 +131,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 
-*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,480 | 🐛 5 | 🌐 CSS | 📅 2026-06-08*
+*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,482 | 🐛 5 | 🌐 CSS | 📅 2026-06-08*
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,223 | 🐛 755 | 🌐 TypeScript | 📅 2026-08-21 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,223 | 🐛 759 | 🌐 TypeScript | 📅 2026-08-21 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -231,7 +231,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17
+* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17
 * [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,776 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
 * [JSS](https://github.com/cssinjs/jss) ⭐ 7,055 | 🐛 225 | 🌐 JavaScript | 📅 2024-08-13
 * [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24
@@ -402,4 +402,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
