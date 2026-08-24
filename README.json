@@ -58,7 +58,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28982
+            "stars": 28983
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28982
+            "stars": 28983
           }
         },
         {
@@ -236,7 +236,7 @@
       "title": "Preprocessors :pill:"
     },
     {
-      "description": "You can find more frameworks at \"awesome-css-frameworks\"",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97311
+            "stars": 97313
           }
         },
         {
@@ -311,6 +311,21 @@
             "owner": "rich1richard",
             "repo": "HasserCSS",
             "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You can find more frameworks at \"awesome-css-frameworks\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102095278,
+            "language": "CSS",
+            "last_commit": "2026-06-08T20:32:07Z",
+            "owner": "troxler",
+            "repo": "awesome-css-frameworks",
+            "stars": 9495
           }
         }
       ],
@@ -924,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:29:44.926Z",
+    "last_updated": "2026-08-24T13:54:30.368Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
