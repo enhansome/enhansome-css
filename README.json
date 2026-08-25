@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 9252268,
                 "language": "Bikeshed",
-                "last_commit": "2026-08-25T03:32:07Z",
+                "last_commit": "2026-08-25T10:13:58Z",
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4867
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97324
+            "stars": 97327
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53518
+            "stars": 53517
           }
         },
         {
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:18.795Z",
+    "last_updated": "2026-08-25T11:28:09.136Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",

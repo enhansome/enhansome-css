@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,324 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,327 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -143,7 +143,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,518 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,517 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 * [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,301 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
 * [MiniReset.css](https://github.com/jgthms/minireset.css) ⭐ 2,801 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-11 - A tiny modern CSS reset.
 * [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,241 | 🐛 8 | 🌐 SCSS | 📅 2026-04-29 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,227 | 🐛 766 | 🌐 TypeScript | 📅 2026-08-24 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,226 | 🐛 764 | 🌐 TypeScript | 📅 2026-08-25 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
