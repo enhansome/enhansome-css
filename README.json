@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9252268,
                 "language": "Bikeshed",
-                "last_commit": "2026-08-25T10:13:58Z",
+                "last_commit": "2026-08-25T15:51:01Z",
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4867
+                "stars": 4868
               }
             },
             {
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983
+            "stars": 28984
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-19T12:12:04Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983
+            "stars": 28984
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-13T22:21:40Z",
             "owner": "less",
             "repo": "less.js",
-            "stars": 17027
+            "stars": 17029
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97327
+            "stars": 97341
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17056
+            "stars": 17057
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-06-08T20:32:07Z",
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9495
+            "stars": 9496
           }
         }
       ],
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-12T20:36:06Z",
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53517
+            "stars": 53518
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5301
+            "stars": 5302
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6652
+            "stars": 6651
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121
+            "stars": 41123
           }
         },
         {
@@ -649,7 +649,7 @@
             "last_commit": "2026-06-09T16:20:50Z",
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7776
+            "stars": 7777
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7055
+            "stars": 7056
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-12T19:43:52Z",
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4319
+            "stars": 4320
           }
         },
         {
@@ -886,7 +886,7 @@
             "last_commit": "2021-07-19T21:33:46Z",
             "owner": "manrajgrover",
             "repo": "SingleDivProject",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:28:09.136Z",
+    "last_updated": "2026-08-26T11:30:47.810Z",
     "original_repository": "awesome-css-group/awesome-css",
     "original_repository_id": 30108786,
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
