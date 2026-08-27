@@ -55,10 +55,10 @@
             "archived": false,
             "id": 13078968,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:12:04Z",
+            "last_commit": "2026-08-26T14:45:38Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28984
+            "stars": 28983
           }
         },
         {
@@ -181,10 +181,10 @@
             "archived": false,
             "id": 13078968,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:12:04Z",
+            "last_commit": "2026-08-26T14:45:38Z",
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28984
+            "stars": 28983
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-25T00:10:32Z",
             "owner": "sass",
             "repo": "sass",
-            "stars": 15372
+            "stars": 15373
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97341
+            "stars": 97353
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-06-08T20:32:07Z",
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9496
+            "stars": 9498
           }
         }
       ],
@@ -457,7 +457,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6651
+            "stars": 6652
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41123
+            "stars": 41125
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-12T19:43:52Z",
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4320
+            "stars": 4321
           }
         },
         {
@@ -939,9 +939,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:30:47.810Z",
-    "original_repository": "awesome-css-group/awesome-css",
-    "original_repository_id": 30108786,
+    "last_updated": "2026-08-27T11:35:02.547Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 30108786,
+      "language": null,
+      "last_commit": "2024-10-30T07:00:24Z",
+      "owner": "awesome-css-group",
+      "repo": "awesome-css",
+      "stars": 5618
+    },
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
     "enhanced_repository_description": null,
