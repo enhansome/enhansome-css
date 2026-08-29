@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS Working Group Editor Drafts",
+                "homepage": "https://drafts.csswg.org/index.html",
                 "id": 9252268,
                 "language": "Bikeshed",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:30:34Z",
+                "open_issues": 4672,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4869
+                "stars": 4870,
+                "topics": [
+                  "css"
+                ]
               },
               "first_seen": "2026-08-28T21:20:02.799Z"
             },
@@ -28,12 +35,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://drafts.css-houdini.org/",
                 "id": 28618196,
                 "language": "Bikeshed",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T15:57:16Z",
+                "open_issues": 280,
                 "owner": "w3c",
                 "repo": "css-houdini-drafts",
-                "stars": 1888
+                "stars": 1888,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:20:02.799Z"
             }
@@ -55,12 +67,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transforming styles with JS plugins",
+            "homepage": "https://postcss.org",
             "id": 13078968,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:45:38Z",
+            "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28984
+            "stars": 28983,
+            "topics": [
+              "ast",
+              "css",
+              "framework",
+              "parser",
+              "postcss"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -71,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin framework for CSS preprocessing in Node.js",
+            "homepage": null,
             "id": 5032833,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-04T08:48:36Z",
+            "open_issues": 0,
             "owner": "reworkcss",
             "repo": "rework",
-            "stars": 2740
+            "stars": 2740,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -87,12 +115,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations",
+            "homepage": "https://csstree.github.io/docs/",
             "id": 67236461,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-05T14:58:51Z",
+            "open_issues": 73,
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2118
+            "stars": 2118,
+            "topics": [
+              "ast",
+              "css",
+              "css-parser",
+              "fast",
+              "generator",
+              "lexer",
+              "parser",
+              "w3c",
+              "walker"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -103,12 +146,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.",
+            "homepage": "https://nv.github.io/CSSOM/docs/parse.html",
             "id": 1025209,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-18T01:21:40Z",
+            "open_issues": 25,
             "owner": "NV",
             "repo": "CSSOM",
-            "stars": 758
+            "stars": 758,
+            "topics": [
+              "css-parser",
+              "cssom",
+              "dom",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -119,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS parser with support of preprocessors",
+            "homepage": null,
             "id": 13370349,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-17T11:05:58Z",
+            "open_issues": 46,
             "owner": "tonyganch",
             "repo": "gonzales-pe",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -135,12 +193,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of parsers written in JavaScript",
+            "homepage": "http://www.nczonline.net/",
             "id": 292509,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-05T14:12:21Z",
+            "open_issues": 24,
             "owner": "CSSLint",
             "repo": "parser-lib",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "css",
+              "css-parser",
+              "css-syntax",
+              "parser",
+              "sax",
+              "style",
+              "stylesheet"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -151,12 +222,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern CSS to all browsers",
+            "homepage": "http://stylecow.github.io/",
             "id": 22479740,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-02-28T19:39:28Z",
+            "open_issues": 2,
             "owner": "stylecow",
             "repo": "stylecow",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "compatibility",
+              "css",
+              "preprocessor",
+              "processor"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -167,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A decent CSS parser.",
+            "homepage": null,
             "id": 10633258,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-11T03:40:00Z",
+            "open_issues": 4,
             "owner": "brettstimmerman",
             "repo": "mensch",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -189,12 +275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transforming styles with JS plugins",
+            "homepage": "https://postcss.org",
             "id": 13078968,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:45:38Z",
+            "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28984
+            "stars": 28983,
+            "topics": [
+              "ast",
+              "css",
+              "framework",
+              "parser",
+              "postcss"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -205,12 +302,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Less. The dynamic stylesheet language.",
+            "homepage": "http://lesscss.org",
             "id": 527644,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T22:21:40Z",
+            "open_issues": 182,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17029
+            "stars": 17029,
+            "topics": [
+              "css",
+              "language",
+              "stylesheet-language"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -221,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sass makes CSS fun!",
+            "homepage": "https://sass-lang.com",
             "id": 929845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:10:32Z",
+            "open_issues": 116,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15372
+            "stars": 15372,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -237,12 +348,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "light – weight css preprocessor",
+            "homepage": "https://stylis.js.org",
             "id": 74873203,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-19T14:27:06Z",
+            "open_issues": 16,
             "owner": "thysultan",
             "repo": "stylis",
-            "stars": 1772
+            "stars": 1772,
+            "topics": [
+              "css",
+              "preprocessor"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -259,12 +378,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "homepage": "https://tailwindcss.com/",
             "id": 106017343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97370
+            "stars": 97375,
+            "topics": [
+              "css",
+              "css-framework",
+              "functional-css",
+              "postcss",
+              "responsive",
+              "tailwindcss",
+              "utility-classes"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -275,12 +407,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Modular and customizable Material Design UI components for the web",
+            "homepage": "https://material.io/develop/web",
             "id": 75642389,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-13T20:42:50Z",
+            "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17057
+            "stars": 17056,
+            "topics": [
+              "css",
+              "javascript",
+              "material-components",
+              "material-design",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -291,12 +434,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility based css framework built with SCSS.",
+            "homepage": "https://shorthandcss.bansal.io",
             "id": 240447499,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2022-12-10T18:12:35Z",
+            "open_issues": 17,
             "owner": "shorthandcss",
             "repo": "shorthand",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "css",
+              "css-framework",
+              "css3",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -307,12 +460,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A new flexbox based CSS micro-framework.",
+            "homepage": "https://jfet97.github.io/strawberry/",
             "id": 136215488,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-07-04T15:19:53Z",
+            "open_issues": 0,
             "owner": "jfet97",
             "repo": "strawberry",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "css",
+              "css-flexbox",
+              "css-framework",
+              "css-micro-framework",
+              "css3"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -323,12 +487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lite and flexible CSS framework (Inspired by Skeleton CSS)",
+            "homepage": null,
             "id": 238908524,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-19T18:10:42Z",
+            "open_issues": 0,
             "owner": "rich1richard",
             "repo": "HasserCSS",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "flexible",
+              "flexible-css-framework",
+              "lite",
+              "skeleton-css"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -339,12 +513,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of awesome CSS frameworks in 2026",
+            "homepage": "https://frontaid.ch/web/ui/libraries.html",
             "id": 102095278,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-06-08T20:32:07Z",
+            "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9499
+            "stars": 9499,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collection",
+              "css",
+              "css-framework",
+              "framework",
+              "list",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -361,12 +549,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern alternative to CSS resets",
+            "homepage": "http://necolas.github.io/normalize.css/",
             "id": 1700621,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-12T20:36:06Z",
+            "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53516
+            "stars": 53515,
+            "topics": [
+              "css",
+              "css-reset",
+              "normalize-css"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -377,12 +574,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A best-practices CSS foundation",
+            "homepage": "https://csstools.github.io/sanitize.css",
             "id": 6566489,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-26T11:31:36Z",
+            "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5302
+            "stars": 5302,
+            "topics": [
+              "css",
+              "normalization",
+              "opinionated"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -393,12 +599,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny modern CSS reset",
+            "homepage": "http://jgthms.com/minireset.css/",
             "id": 66643668,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-11T11:58:27Z",
+            "open_issues": 16,
             "owner": "jgthms",
             "repo": "minireset.css",
-            "stars": 2801
+            "stars": 2801,
+            "topics": [
+              "css",
+              "reset"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -409,12 +623,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Modern CSS Reset 🚀",
+            "homepage": null,
             "id": 337284161,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-04-29T14:16:17Z",
+            "open_issues": 8,
             "owner": "ikrishg",
             "repo": "reseter.css",
-            "stars": 1241
+            "stars": 1241,
+            "topics": [
+              "css",
+              "css-reset",
+              "css3",
+              "cssreset",
+              "hackertoberfest",
+              "normalize-css",
+              "reset-css"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -425,12 +652,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds OpenType features—ligatures, kerning, and more—to Normalize.css.",
+            "homepage": "http://kennethormandy.com/journal/normalize-opentype-css",
             "id": 20636904,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-09-01T06:43:00Z",
+            "open_issues": 17,
             "owner": "kennethormandy",
             "repo": "normalize-opentype.css",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "css",
+              "typography"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -441,12 +676,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reduce Similar & Duplicated CSS Classes with Diff in Seconds!",
+            "homepage": "https://xiemala.com/s/gaSXqA",
             "id": 462083250,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-11-15T08:20:25Z",
+            "open_issues": 4,
             "owner": "ruilisi",
             "repo": "css-checker",
-            "stars": 591
+            "stars": 591,
+            "topics": [
+              "cicd",
+              "code-quality",
+              "css",
+              "redundancy-analysis"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -457,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unstyle CSS - Forget inconsistencies, let us start with a blank slate.",
+            "homepage": null,
             "id": 19798295,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-01-16T03:46:56Z",
+            "open_issues": 0,
             "owner": "Martin-Pitt",
             "repo": "css-unstyle",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -479,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Principles of writing consistent, idiomatic CSS.",
+            "homepage": null,
             "id": 4431560,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-21T12:01:30Z",
+            "open_issues": 7,
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6652
+            "stars": 6652,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -495,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.",
+            "homepage": "http://thinkup.com",
             "id": 220418,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2017-01-01T13:57:56Z",
+            "open_issues": 181,
             "owner": "ThinkUpLLC",
             "repo": "ThinkUp",
-            "stars": 3264
+            "stars": 3264,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -511,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dropbox’s (S)CSS authoring style guide",
+            "homepage": null,
             "id": 44996791,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-11-08T08:25:39Z",
+            "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1215
+            "stars": 1215,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -527,12 +792,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: Opinionated CSS styleguide for scalable applications",
+            "homepage": null,
             "id": 47085678,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-04-27T03:20:45Z",
+            "open_issues": 1,
             "owner": "grvcoelho",
             "repo": "css-styleguide",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "css",
+              "naming-conventions",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -549,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markdown based documentation system for style guides.",
+            "homepage": "http://trulia.github.io/hologram",
             "id": 9228086,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-10T12:27:31Z",
+            "open_issues": 43,
             "owner": "trulia",
             "repo": "hologram",
-            "stars": 2167
+            "stars": 2167,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -565,12 +844,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation",
+            "homepage": "http://styleguide.sc5.io/",
             "id": 24668894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-16T02:34:17Z",
+            "open_issues": 140,
             "owner": "SC5",
             "repo": "sc5-styleguide",
-            "stars": 1246
+            "stars": 1246,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -581,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate a style guide from your stylesheets.",
+            "homepage": "http://jacobrask.github.com/styledocco/",
             "id": 3553459,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-20T22:37:04Z",
+            "open_issues": 48,
             "owner": "jacobrask",
             "repo": "styledocco",
-            "stars": 1062
+            "stars": 1062,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -597,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easily create and maintain style guides using CSS comments",
+            "homepage": "http://jonathantneal.github.io/mdcss-theme-github/demo/",
             "id": 45187348,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-04-05T18:22:25Z",
+            "open_issues": 11,
             "owner": "csstools",
             "repo": "mdcss",
-            "stars": 678
+            "stars": 678,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -613,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown-based styleguide generator",
+            "homepage": null,
             "id": 17241211,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-21T02:42:52Z",
+            "open_issues": 21,
             "owner": "styledown",
             "repo": "styledown",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -629,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ON HOLD] Living Style Guides Engine and Maintenance Environment for Front-end Components. Core repository.",
+            "homepage": "http://sourcejs.com",
             "id": 9578262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-14T15:01:06Z",
+            "open_issues": 52,
             "owner": "sourcejs",
             "repo": "Source",
-            "stars": 544
+            "stars": 544,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -645,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 3137962,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2012-02-03T10:40:36Z",
+            "open_issues": 5,
             "owner": "Joony",
             "repo": "styledoc",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -667,12 +976,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+            "homepage": "https://styled-components.com",
             "id": 65794292,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:53:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:00:26Z",
+            "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125
+            "stars": 41125,
+            "topics": [
+              "css",
+              "css-in-js",
+              "react",
+              "reactnative",
+              "rsc",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -683,12 +1004,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full CSS support for JSX without compromises",
+            "homepage": "http://npmjs.com/styled-jsx",
             "id": 75629834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T16:20:50Z",
+            "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7777
+            "stars": 7777,
+            "topics": [
+              "css",
+              "css-in-js",
+              "dynamic-styles",
+              "jsx",
+              "react",
+              "shadow-dom"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -699,12 +1032,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+            "homepage": "https://cssinjs.org",
             "id": 25131304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
+            "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056
+            "stars": 7056,
+            "topics": [
+              "components",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "js",
+              "jss",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -715,12 +1061,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
+            "homepage": null,
             "id": 43790903,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-24T18:52:57Z",
+            "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339
+            "stars": 5339,
+            "topics": [
+              "aphrodite",
+              "css",
+              "css-in-js",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -731,12 +1087,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CSS Loader",
+            "homepage": null,
             "id": 3954884,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:10:50Z",
+            "open_issues": 31,
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4321
+            "stars": 4321,
+            "topics": [
+              "css",
+              "loader",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -747,12 +1113,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation",
+            "homepage": null,
             "id": 66389842,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-12T15:00:31Z",
+            "open_issues": 32,
             "owner": "airbnb",
             "repo": "react-with-styles",
-            "stars": 1690
+            "stars": 1690,
+            "topics": [
+              "css",
+              "css-in-js",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -763,12 +1138,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles: Modular, scoped CSS with ES6",
+            "homepage": null,
             "id": 42906765,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-16T18:12:57Z",
+            "open_issues": 20,
             "owner": "rtsao",
             "repo": "csjs",
-            "stars": 572
+            "stars": 572,
+            "topics": [
+              "csjs",
+              "css-in-js",
+              "css-modules"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -779,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Babel v6 which transforms inline styles defined in JavaScript modules into class names so they become available to, e.g. the `className` prop of React elements. While transforming, the plugin processes all JavaScript style definitions found and bundles them up into a CSS file, ready to be requested from your web server.",
+            "homepage": null,
             "id": 46269792,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-26T13:07:29Z",
+            "open_issues": 6,
             "owner": "martinandert",
             "repo": "babel-plugin-css-in-js",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -795,12 +1184,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A built-time  CSS library for styling React components.",
+            "homepage": null,
             "id": 338078634,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-30T07:10:52Z",
+            "open_issues": 0,
             "owner": "sultan99",
             "repo": "stylin",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "annotations",
+              "css-library",
+              "css-modules",
+              "loader",
+              "react-style",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -811,12 +1212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "styled component for react & style-loader/usable",
+            "homepage": null,
             "id": 32727032,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-30T11:56:31Z",
+            "open_issues": 1,
             "owner": "bloodyowl",
             "repo": "react-styled",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -827,12 +1233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React styling. Plain and simple.",
+            "homepage": "http://inturn.github.io/classy/",
             "id": 40736800,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-03T22:06:38Z",
+            "open_issues": 0,
             "owner": "inturn",
             "repo": "classy",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -849,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Break free from CSS prefix hell!",
+            "homepage": "http://projects.verou.me/prefixfree/",
             "id": 2556901,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-13T20:37:47Z",
+            "open_issues": 97,
             "owner": "LeaVerou",
             "repo": "prefixfree",
-            "stars": 3785
+            "stars": 3785,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -865,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties",
+            "homepage": "http://css3pie.com",
             "id": 560347,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2018-08-05T17:20:04Z",
+            "open_issues": 117,
             "owner": "lojjic",
             "repo": "PIE",
-            "stars": 2763
+            "stars": 2763,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -881,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.",
+            "homepage": null,
             "id": 1303411,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-18T05:58:26Z",
+            "open_issues": 62,
             "owner": "keithclark",
             "repo": "selectivizr",
-            "stars": 1688
+            "stars": 1688,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -897,12 +1323,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: A position: sticky polyfill that works with filamentgroup/fixed-fixed for a safer position:fixed fallback.",
+            "homepage": null,
             "id": 13336304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-28T15:33:56Z",
+            "open_issues": 26,
             "owner": "filamentgroup",
             "repo": "fixed-sticky",
-            "stars": 1473
+            "stars": 1473,
+            "topics": [
+              "polyfill",
+              "scrolling",
+              "sticky"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -913,12 +1348,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library to make creating CSS polyfills much easier.",
+            "homepage": null,
             "id": 9741954,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-23T01:03:54Z",
+            "open_issues": 16,
             "owner": "philipwalton",
             "repo": "polyfill",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -935,12 +1375,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☝️One <div>. Many possibilities.",
+            "homepage": null,
             "id": 54322254,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-07-19T21:33:46Z",
+            "open_issues": 21,
             "owner": "manrajgrover",
             "repo": "SingleDivProject",
-            "stars": 1587
+            "stars": 1587,
+            "topics": [
+              "css",
+              "div",
+              "drawing",
+              "html",
+              "single-div"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -951,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.",
+            "homepage": null,
             "id": 11629018,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-07-18T11:36:07Z",
+            "open_issues": 14,
             "owner": "Heydon",
             "repo": "REVENGE.CSS",
-            "stars": 873
+            "stars": 873,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -967,12 +1423,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)",
+            "homepage": "https://chromewebstore.google.com/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol",
             "id": 87470794,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-21T23:10:03Z",
+            "open_issues": 38,
             "owner": "webextensions",
             "repo": "live-css-editor",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "chrome-extension",
+              "css",
+              "editor",
+              "firefox-addon",
+              "javascript",
+              "less",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         },
@@ -983,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "convert xpath to css selector",
+            "homepage": null,
             "id": 299222488,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-28T06:46:52Z",
+            "open_issues": 0,
             "owner": "steambap",
             "repo": "xpath-to-selector",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
         }
@@ -997,15 +1471,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:20:02.799Z",
+    "last_updated": "2026-08-29T04:17:58.492Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":art: A curated contents of amazing CSS :)",
+      "homepage": null,
       "id": 30108786,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2024-10-30T07:00:24Z",
+      "open_issues": 25,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5620
+      "stars": 5620,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css",
+        "list"
+      ]
     },
     "original_repository_sha": "7d0f2e482f6d4f7ab0c2649846de5874d20ae47f",
     "enhanced_repository": "enhansome/enhansome-css",
