@@ -76,7 +76,7 @@
             "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983,
+            "stars": 28984,
             "topics": [
               "ast",
               "css",
@@ -284,7 +284,7 @@
             "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983,
+            "stars": 28984,
             "topics": [
               "ast",
               "css",
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97375,
+            "stars": 97383,
             "topics": [
               "css",
               "css-framework",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53515,
+            "stars": 53516,
             "topics": [
               "css",
               "css-reset",
@@ -832,7 +832,7 @@
             "open_issues": 43,
             "owner": "trulia",
             "repo": "hologram",
-            "stars": 2167,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1308,7 +1308,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2017-02-18T05:58:26Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "keithclark",
             "repo": "selectivizr",
             "stars": 1688,
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:17:58.492Z",
+    "last_updated": "2026-08-29T15:31:22.448Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1480,7 +1480,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2024-10-30T07:00:24Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
       "stars": 5620,

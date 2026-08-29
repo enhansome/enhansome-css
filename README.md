@@ -75,7 +75,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Parsers :mag:
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,983 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-26 - Transforming styles with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,984 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-26 - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) ⭐ 2,740 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
 * [CSSTree](https://github.com/csstree/csstree) ⭐ 2,118 | 🐛 73 | 🌐 JavaScript | 📅 2026-03-05 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 758 | 🐛 25 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
@@ -90,7 +90,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,983 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-26 - Transforming CSS with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,984 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-26 - Transforming CSS with JS plugins.
 * [LESS](https://github.com/less/less.js) ⭐ 17,029 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 * [Sass](https://github.com/sass/sass) ⭐ 15,372 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-25 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,772 | 🐛 16 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,375 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,383 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-14 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -143,7 +143,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,515 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,516 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 * [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,302 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
 * [MiniReset.css](https://github.com/jgthms/minireset.css) ⭐ 2,801 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-11 - A tiny modern CSS reset.
 * [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,241 | 🐛 8 | 🌐 SCSS | 📅 2026-04-29 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,232 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-28 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,234 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-29 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -202,7 +202,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## Style Guide Generators :slot\_machine:
 
-* [Hologram](https://github.com/trulia/hologram) ⭐ 2,167 | 🐛 43 | 🌐 Ruby | 📅 2023-08-10
+* [Hologram](https://github.com/trulia/hologram) ⭐ 2,166 | 🐛 43 | 🌐 Ruby | 📅 2023-08-10
 * [Sc5-styleguide](https://github.com/SC5/sc5-styleguide) ⚠️ Archived
 * [Styledocco](https://github.com/jacobrask/styledocco) ⭐ 1,062 | 🐛 48 | 🌐 JavaScript | 📅 2018-02-20
 * [mdcss](https://github.com/jonathantneal/mdcss) ⚠️ Archived
@@ -251,7 +251,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Prefixfree](https://github.com/LeaVerou/prefixfree) ⚠️ Archived - Break free from CSS prefix hell.
 * [PIE](https://github.com/lojjic/PIE) ⚠️ Archived - Allows Internet Explorer to recognize and render various CSS3 box decoration properties.
-* [Selectivizr](https://github.com/keithclark/selectivizr) ⭐ 1,688 | 🐛 62 | 🌐 JavaScript | 📅 2017-02-18 - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [Selectivizr](https://github.com/keithclark/selectivizr) ⭐ 1,688 | 🐛 61 | 🌐 JavaScript | 📅 2017-02-18 - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [Fixed-sticky](https://github.com/filamentgroup/fixed-sticky) ⚠️ Archived - A CSS position:sticky polyfill.
 * [Polyfill.js](https://github.com/philipwalton/polyfill/) ⚠️ Archived - A library to make creating CSS polyfills much easier.
 
