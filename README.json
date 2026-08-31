@@ -17,11 +17,11 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T23:11:16Z",
-                "open_issues": 4676,
+                "last_commit": "2026-08-31T12:07:57Z",
+                "open_issues": 4677,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4870,
+                "stars": 4874,
                 "topics": [
                   "css"
                 ]
@@ -76,7 +76,7 @@
             "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983,
+            "stars": 28980,
             "topics": [
               "ast",
               "css",
@@ -284,7 +284,7 @@
             "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28983,
+            "stars": 28980,
             "topics": [
               "ast",
               "css",
@@ -311,7 +311,7 @@
             "open_issues": 182,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17030,
+            "stars": 17029,
             "topics": [
               "css",
               "language",
@@ -336,7 +336,7 @@
             "open_issues": 116,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15370,
+            "stars": 15371,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -383,11 +383,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-14T19:43:34Z",
-            "open_issues": 64,
+            "last_commit": "2026-08-31T11:25:22Z",
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97396,
+            "stars": 97412,
             "topics": [
               "css",
               "css-framework",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9500,
+            "stars": 9503,
             "topics": [
               "awesome",
               "awesome-list",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53518,
+            "stars": 53519,
             "topics": [
               "css",
               "css-reset",
@@ -608,7 +608,7 @@
             "open_issues": 16,
             "owner": "jgthms",
             "repo": "minireset.css",
-            "stars": 2801,
+            "stars": 2800,
             "topics": [
               "css",
               "reset"
@@ -780,7 +780,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1215,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -985,7 +985,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41124,
+            "stars": 41125,
             "topics": [
               "css",
               "css-in-js",
@@ -1013,7 +1013,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7777,
+            "stars": 7778,
             "topics": [
               "css",
               "css-in-js",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:11:01.024Z",
+    "last_updated": "2026-08-31T17:56:10.175Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 26,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5623,
+      "stars": 5625,
       "topics": [
         "awesome",
         "awesome-list",
