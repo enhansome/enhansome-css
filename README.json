@@ -17,8 +17,8 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T10:16:25Z",
-                "open_issues": 4668,
+                "last_commit": "2026-09-04T14:41:22Z",
+                "open_issues": 4657,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4875,
@@ -72,11 +72,11 @@
             "id": 13078968,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:24:02Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-03T15:04:51Z",
+            "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28979,
+            "stars": 28978,
             "topics": [
               "ast",
               "css",
@@ -280,11 +280,11 @@
             "id": 13078968,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:24:02Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-03T15:04:51Z",
+            "open_issues": 24,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28979,
+            "stars": 28978,
             "topics": [
               "ast",
               "css",
@@ -336,7 +336,7 @@
             "open_issues": 114,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15371,
+            "stars": 15372,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -357,7 +357,7 @@
             "open_issues": 16,
             "owner": "thysultan",
             "repo": "stylis",
-            "stars": 1772,
+            "stars": 1771,
             "topics": [
               "css",
               "preprocessor"
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T10:29:13Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97435,
+            "stars": 97444,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17053,
+            "stars": 17052,
             "topics": [
               "css",
               "javascript",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53517,
+            "stars": 53521,
             "topics": [
               "css",
               "css-reset",
@@ -583,7 +583,7 @@
             "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5302,
+            "stars": 5304,
             "topics": [
               "css",
               "normalization",
@@ -780,7 +780,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1214,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -985,7 +985,7 @@
             "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41123,
+            "stars": 41124,
             "topics": [
               "css",
               "css-in-js",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:53:51.645Z",
+    "last_updated": "2026-09-04T14:50:42.521Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 26,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5626,
+      "stars": 5628,
       "topics": [
         "awesome",
         "awesome-list",
