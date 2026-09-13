@@ -17,8 +17,8 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T07:54:58Z",
-                "open_issues": 4658,
+                "last_commit": "2026-09-13T12:24:56Z",
+                "open_issues": 4659,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4878,
@@ -73,7 +73,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T07:51:36Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28972,
@@ -281,7 +281,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T07:51:36Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28972,
@@ -307,11 +307,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T17:19:14Z",
-            "open_issues": 184,
+            "last_commit": "2026-09-12T22:20:18Z",
+            "open_issues": 183,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17024,
             "topics": [
               "css",
               "language",
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97516,
+            "stars": 97538,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17051,
+            "stars": 17052,
             "topics": [
               "css",
               "javascript",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9514,
+            "stars": 9516,
             "topics": [
               "awesome",
               "awesome-list",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53525,
+            "stars": 53523,
             "topics": [
               "css",
               "css-reset",
@@ -632,7 +632,7 @@
             "open_issues": 8,
             "owner": "ikrishg",
             "repo": "reseter.css",
-            "stars": 1241,
+            "stars": 1240,
             "topics": [
               "css",
               "css-reset",
@@ -711,7 +711,7 @@
             "open_issues": 0,
             "owner": "Martin-Pitt",
             "repo": "css-unstyle",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -759,7 +759,7 @@
             "open_issues": 181,
             "owner": "ThinkUpLLC",
             "repo": "ThinkUp",
-            "stars": 3263,
+            "stars": 3262,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1269,7 +1269,7 @@
             "open_issues": 97,
             "owner": "LeaVerou",
             "repo": "prefixfree",
-            "stars": 3785,
+            "stars": 3784,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1290,7 +1290,7 @@
             "open_issues": 117,
             "owner": "lojjic",
             "repo": "PIE",
-            "stars": 2764,
+            "stars": 2763,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1411,7 +1411,7 @@
             "open_issues": 14,
             "owner": "Heydon",
             "repo": "REVENGE.CSS",
-            "stars": 873,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:54:16.857Z",
+    "last_updated": "2026-09-13T14:49:10.440Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
