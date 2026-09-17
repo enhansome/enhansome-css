@@ -18,7 +18,7 @@
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-14T08:05:45Z",
-                "open_issues": 4673,
+                "open_issues": 4675,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4881,
@@ -120,11 +120,11 @@
             "id": 67236461,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-05T14:58:51Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-16T15:23:07Z",
+            "open_issues": 73,
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2120,
+            "stars": 2121,
             "topics": [
               "ast",
               "css",
@@ -307,11 +307,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T16:47:31Z",
-            "open_issues": 183,
+            "last_commit": "2026-09-16T18:01:05Z",
+            "open_issues": 186,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17024,
             "topics": [
               "css",
               "language",
@@ -332,11 +332,11 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T10:07:00Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-16T17:55:24Z",
+            "open_issues": 117,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15374,
+            "stars": 15372,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -387,7 +387,7 @@
             "open_issues": 71,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97575,
+            "stars": 97593,
             "topics": [
               "css",
               "css-framework",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53522,
+            "stars": 53521,
             "topics": [
               "css",
               "css-reset",
@@ -985,7 +985,7 @@
             "open_issues": 28,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41103,
+            "stars": 41102,
             "topics": [
               "css",
               "css-in-js",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:20:29.758Z",
+    "last_updated": "2026-09-17T15:27:05.358Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
