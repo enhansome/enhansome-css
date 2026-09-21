@@ -21,7 +21,7 @@
                 "open_issues": 4677,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4880,
+                "stars": 4879,
                 "topics": [
                   "css"
                 ]
@@ -76,7 +76,7 @@
             "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28976,
+            "stars": 28975,
             "topics": [
               "ast",
               "css",
@@ -121,7 +121,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-16T15:23:07Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "csstree",
             "repo": "csstree",
             "stars": 2122,
@@ -284,7 +284,7 @@
             "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28976,
+            "stars": 28975,
             "topics": [
               "ast",
               "css",
@@ -307,11 +307,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T20:55:50Z",
-            "open_issues": 187,
+            "last_commit": "2026-09-21T14:10:13Z",
+            "open_issues": 186,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17026,
             "topics": [
               "css",
               "language",
@@ -332,8 +332,8 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:40:32Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-21T01:22:41Z",
+            "open_issues": 116,
             "owner": "sass",
             "repo": "sass",
             "stars": 15375,
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97636,
+            "stars": 97630,
             "topics": [
               "css",
               "css-framework",
@@ -443,7 +443,7 @@
             "open_issues": 17,
             "owner": "shorthandcss",
             "repo": "shorthand",
-            "stars": 256,
+            "stars": 255,
             "topics": [
               "css",
               "css-framework",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53521,
+            "stars": 53519,
             "topics": [
               "css",
               "css-reset",
@@ -608,7 +608,7 @@
             "open_issues": 16,
             "owner": "jgthms",
             "repo": "minireset.css",
-            "stars": 2801,
+            "stars": 2800,
             "topics": [
               "css",
               "reset"
@@ -937,7 +937,7 @@
             "open_issues": 52,
             "owner": "sourcejs",
             "repo": "Source",
-            "stars": 544,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -985,7 +985,7 @@
             "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41103,
+            "stars": 41101,
             "topics": [
               "css",
               "css-in-js",
@@ -1041,7 +1041,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7051,
+            "stars": 7049,
             "topics": [
               "components",
               "css",
@@ -1096,7 +1096,7 @@
             "open_issues": 31,
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4321,
+            "stars": 4320,
             "topics": [
               "css",
               "loader",
@@ -1411,7 +1411,7 @@
             "open_issues": 14,
             "owner": "Heydon",
             "repo": "REVENGE.CSS",
-            "stars": 875,
+            "stars": 874,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:33:33.460Z",
+    "last_updated": "2026-09-21T16:49:10.265Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 28,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5632,
+      "stars": 5631,
       "topics": [
         "awesome",
         "awesome-list",
