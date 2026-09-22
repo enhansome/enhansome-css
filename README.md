@@ -70,7 +70,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,879 | 🐛 4,677 | 🌐 Bikeshed | 📅 2026-09-18 - Mirror of CSS WG Editor Draft repository.
+* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,879 | 🐛 4,678 | 🌐 Bikeshed | 📅 2026-09-22 - Mirror of CSS WG Editor Draft repository.
 * [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,889 | 🐛 280 | 🌐 Bikeshed | 📅 2026-08-06 - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
@@ -91,7 +91,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *Write CSS faster*
 
 * [PostCSS](https://github.com/postcss/postcss) ⭐ 28,975 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-18 - Transforming CSS with JS plugins.
-* [LESS](https://github.com/less/less.js) ⭐ 17,026 | 🐛 186 | 🌐 JavaScript | 📅 2026-09-21 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
+* [LESS](https://github.com/less/less.js) ⭐ 17,025 | 🐛 186 | 🌐 JavaScript | 📅 2026-09-21 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 * [Sass](https://github.com/sass/sass) ⭐ 15,375 | 🐛 116 | 🌐 TypeScript | 📅 2026-09-21 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,770 | 🐛 16 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,630 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-08 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,640 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-08 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 255 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -143,8 +143,8 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,519 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
-* [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,307 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
+* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,520 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+* [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,308 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
 * [MiniReset.css](https://github.com/jgthms/minireset.css) ⭐ 2,800 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-11 - A tiny modern CSS reset.
 * [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,240 | 🐛 8 | 🌐 SCSS | 📅 2026-04-29 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
 * [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) ⭐ 785 | 🐛 17 | 🌐 HTML | 📅 2017-09-01 - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,283 | 🐛 825 | 🌐 TypeScript | 📅 2026-09-21 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,287 | 🐛 821 | 🌐 TypeScript | 📅 2026-09-22 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -202,7 +202,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## Style Guide Generators :slot\_machine:
 
-* [Hologram](https://github.com/trulia/hologram) ⭐ 2,164 | 🐛 43 | 🌐 Ruby | 📅 2023-08-10
+* [Hologram](https://github.com/trulia/hologram) ⭐ 2,165 | 🐛 43 | 🌐 Ruby | 📅 2023-08-10
 * [Sc5-styleguide](https://github.com/SC5/sc5-styleguide) ⚠️ Archived
 * [Styledocco](https://github.com/jacobrask/styledocco) ⭐ 1,060 | 🐛 48 | 🌐 JavaScript | 📅 2018-02-20
 * [mdcss](https://github.com/jonathantneal/mdcss) ⚠️ Archived
@@ -231,9 +231,9 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,101 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-20
+* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,103 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-20
 * [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,774 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
-* [JSS](https://github.com/cssinjs/jss) ⭐ 7,049 | 🐛 225 | 🌐 JavaScript | 📅 2024-08-13
+* [JSS](https://github.com/cssinjs/jss) ⭐ 7,048 | 🐛 225 | 🌐 JavaScript | 📅 2024-08-13
 * [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,337 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24
 * [Css-loader](https://github.com/webpack/css-loader) ⚠️ Archived
 * [React-with-styles](https://github.com/airbnb/react-with-styles) ⭐ 1,688 | 🐛 32 | 🌐 JavaScript | 📅 2024-04-12
@@ -336,7 +336,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Videos :tv:
 
-\*Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) ⭐ 4,882 | 🐛 1 | 📅 2026-09-19.
+\*Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) ⭐ 4,882 | 🐛 0 | 📅 2026-09-22.
 
 [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.\*
 
@@ -402,4 +402,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
