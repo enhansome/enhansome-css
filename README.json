@@ -17,11 +17,11 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T15:00:42Z",
-                "open_issues": 4681,
+                "last_commit": "2026-09-25T09:55:12Z",
+                "open_issues": 4679,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4883,
+                "stars": 4884,
                 "topics": [
                   "css"
                 ]
@@ -72,7 +72,7 @@
             "id": 13078968,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:02:09Z",
+            "last_commit": "2026-09-24T21:26:00Z",
             "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
@@ -121,10 +121,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-16T15:23:07Z",
-            "open_issues": 78,
+            "open_issues": 77,
             "owner": "csstree",
             "repo": "csstree",
-            "stars": 2122,
+            "stars": 2123,
             "topics": [
               "ast",
               "css",
@@ -280,7 +280,7 @@
             "id": 13078968,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:02:09Z",
+            "last_commit": "2026-09-24T21:26:00Z",
             "open_issues": 25,
             "owner": "postcss",
             "repo": "postcss",
@@ -308,7 +308,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T14:10:13Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "less",
             "repo": "less.js",
             "stars": 17025,
@@ -332,7 +332,7 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T21:36:57Z",
+            "last_commit": "2026-09-24T17:19:32Z",
             "open_issues": 115,
             "owner": "sass",
             "repo": "sass",
@@ -383,11 +383,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-25T13:47:42Z",
+            "open_issues": 77,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97654,
+            "stars": 97674,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17050,
+            "stars": 17048,
             "topics": [
               "css",
               "javascript",
@@ -583,7 +583,7 @@
             "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5308,
+            "stars": 5307,
             "topics": [
               "css",
               "normalization",
@@ -661,7 +661,7 @@
             "open_issues": 17,
             "owner": "kennethormandy",
             "repo": "normalize-opentype.css",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "css",
               "typography"
@@ -738,7 +738,7 @@
             "open_issues": 7,
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6647,
+            "stars": 6646,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -780,7 +780,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1211,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -916,7 +916,7 @@
             "open_issues": 21,
             "owner": "styledown",
             "repo": "styledown",
-            "stars": 667,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -981,11 +981,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T00:35:09Z",
+            "last_commit": "2026-09-24T21:37:15Z",
             "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41102,
+            "stars": 41101,
             "topics": [
               "css",
               "css-in-js",
@@ -1290,7 +1290,7 @@
             "open_issues": 117,
             "owner": "lojjic",
             "repo": "PIE",
-            "stars": 2763,
+            "stars": 2762,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1311,7 +1311,7 @@
             "open_issues": 61,
             "owner": "keithclark",
             "repo": "selectivizr",
-            "stars": 1687,
+            "stars": 1686,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 26,
             "owner": "filamentgroup",
             "repo": "fixed-sticky",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "polyfill",
               "scrolling",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:43:59.393Z",
+    "last_updated": "2026-09-25T15:44:47.468Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 29,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5633,
+      "stars": 5634,
       "topics": [
         "awesome",
         "awesome-list",
