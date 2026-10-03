@@ -17,8 +17,8 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T14:03:40Z",
-                "open_issues": 4689,
+                "last_commit": "2026-10-02T23:09:19Z",
+                "open_issues": 4690,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4887,
@@ -387,7 +387,7 @@
             "open_issues": 91,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97748,
+            "stars": 97754,
             "topics": [
               "css",
               "css-framework",
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "You can find more frameworks at \"awesome-css-frameworks\"",
-          "description": null,
+          "description": "troxler/awesome-css-frameworks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9538,
+            "stars": 9539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53508,
+            "stars": 53507,
             "topics": [
               "css",
               "css-reset",
@@ -632,7 +632,7 @@
             "open_issues": 8,
             "owner": "ikrishg",
             "repo": "reseter.css",
-            "stars": 1240,
+            "stars": 1239,
             "topics": [
               "css",
               "css-reset",
@@ -819,7 +819,7 @@
         {
           "node_type": "item",
           "title": "Hologram",
-          "description": null,
+          "description": "trulia/hologram",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -840,7 +840,7 @@
         {
           "node_type": "item",
           "title": "Sc5-styleguide",
-          "description": null,
+          "description": "SC5/sc5-styleguide",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -861,7 +861,7 @@
         {
           "node_type": "item",
           "title": "Styledocco",
-          "description": null,
+          "description": "jacobrask/styledocco",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -882,7 +882,7 @@
         {
           "node_type": "item",
           "title": "mdcss",
-          "description": null,
+          "description": "csstools/mdcss",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -903,7 +903,7 @@
         {
           "node_type": "item",
           "title": "Styledown",
-          "description": null,
+          "description": "styledown/styledown",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "sourcejs/Source",
-          "description": null,
+          "description": "sourcejs/Source",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "Styledoc",
-          "description": null,
+          "description": "Joony/styledoc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -972,7 +972,7 @@
         {
           "node_type": "item",
           "title": "Styled-components",
-          "description": null,
+          "description": "styled-components/styled-components",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,7 +985,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41098,
+            "stars": 41097,
             "topics": [
               "css",
               "css-in-js",
@@ -1000,7 +1000,7 @@
         {
           "node_type": "item",
           "title": "Styled-jsx",
-          "description": null,
+          "description": "vercel/styled-jsx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1028,7 +1028,7 @@
         {
           "node_type": "item",
           "title": "JSS",
-          "description": null,
+          "description": "cssinjs/jss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1057,7 +1057,7 @@
         {
           "node_type": "item",
           "title": "Aphrodite",
-          "description": null,
+          "description": "Khan/aphrodite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1083,7 +1083,7 @@
         {
           "node_type": "item",
           "title": "Css-loader",
-          "description": null,
+          "description": "webpack/css-loader",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1109,7 +1109,7 @@
         {
           "node_type": "item",
           "title": "React-with-styles",
-          "description": null,
+          "description": "airbnb/react-with-styles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1134,7 +1134,7 @@
         {
           "node_type": "item",
           "title": "Csjs",
-          "description": null,
+          "description": "rtsao/csjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1159,7 +1159,7 @@
         {
           "node_type": "item",
           "title": "Babel-plugin-css-in-js",
-          "description": null,
+          "description": "martinandert/babel-plugin-css-in-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1180,7 +1180,7 @@
         {
           "node_type": "item",
           "title": "Stylin",
-          "description": null,
+          "description": "sultan99/stylin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1208,7 +1208,7 @@
         {
           "node_type": "item",
           "title": "React-styled",
-          "description": null,
+          "description": "bloodyowl/react-styled",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1229,7 +1229,7 @@
         {
           "node_type": "item",
           "title": "Classy",
-          "description": null,
+          "description": "inturn/classy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:31:32.564Z",
+    "last_updated": "2026-10-03T04:37:59.345Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 30,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5639,
+      "stars": 5641,
       "topics": [
         "awesome",
         "awesome-list",
