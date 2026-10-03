@@ -73,7 +73,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T14:15:03Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28975,
@@ -281,7 +281,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T14:15:03Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28975,
@@ -387,7 +387,7 @@
             "open_issues": 91,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97754,
+            "stars": 97755,
             "topics": [
               "css",
               "css-framework",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9539,
+            "stars": 9540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:59.345Z",
+    "last_updated": "2026-10-03T15:05:02.999Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",

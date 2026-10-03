@@ -75,7 +75,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Parsers :mag:
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,975 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 - Transforming styles with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,975 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-29 - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) ⭐ 2,737 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
 * [CSSTree](https://github.com/csstree/csstree) ⭐ 2,124 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-16 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 757 | 🐛 26 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
@@ -90,7 +90,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,975 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 - Transforming CSS with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,975 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-29 - Transforming CSS with JS plugins.
 * [LESS](https://github.com/less/less.js) ⭐ 17,024 | 🐛 187 | 🌐 JavaScript | 📅 2026-09-21 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 * [Sass](https://github.com/sass/sass) ⭐ 15,371 | 🐛 113 | 🌐 TypeScript | 📅 2026-09-29 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,769 | 🐛 16 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,754 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 97,755 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 255 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -131,7 +131,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 
-*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,539 | 🐛 4 | 🌐 CSS | 📅 2026-06-08*
+*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,540 | 🐛 4 | 🌐 CSS | 📅 2026-06-08*
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,303 | 🐛 813 | 🌐 TypeScript | 📅 2026-10-02 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,304 | 🐛 813 | 🌐 TypeScript | 📅 2026-10-02 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
