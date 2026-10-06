@@ -76,7 +76,7 @@
             "open_issues": 26,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28974,
+            "stars": 28975,
             "topics": [
               "ast",
               "css",
@@ -121,7 +121,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-16T15:23:07Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "csstree",
             "repo": "csstree",
             "stars": 2125,
@@ -284,7 +284,7 @@
             "open_issues": 26,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28974,
+            "stars": 28975,
             "topics": [
               "ast",
               "css",
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T19:32:43Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97773,
+            "stars": 97783,
             "topics": [
               "css",
               "css-framework",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9538,
+            "stars": 9542,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41096,
+            "stars": 41095,
             "topics": [
               "css",
               "css-in-js",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:51.853Z",
+    "last_updated": "2026-10-06T17:03:32.747Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
