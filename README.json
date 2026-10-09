@@ -17,8 +17,8 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T14:55:32Z",
-                "open_issues": 4693,
+                "last_commit": "2026-10-09T17:20:50Z",
+                "open_issues": 4691,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
                 "stars": 4888,
@@ -73,7 +73,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T09:31:28Z",
-            "open_issues": 28,
+            "open_issues": 31,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28973,
@@ -281,7 +281,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T09:31:28Z",
-            "open_issues": 28,
+            "open_issues": 31,
             "owner": "postcss",
             "repo": "postcss",
             "stars": 28973,
@@ -311,7 +311,7 @@
             "open_issues": 187,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17024,
             "topics": [
               "css",
               "language",
@@ -332,11 +332,11 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T01:43:30Z",
+            "last_commit": "2026-10-09T00:07:30Z",
             "open_issues": 114,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15369,
+            "stars": 15368,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T19:32:43Z",
-            "open_issues": 100,
+            "open_issues": 102,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97804,
+            "stars": 97815,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17044,
+            "stars": 17043,
             "topics": [
               "css",
               "javascript",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9542,
+            "stars": 9540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53506,
+            "stars": 53507,
             "topics": [
               "css",
               "css-reset",
@@ -583,7 +583,7 @@
             "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5309,
+            "stars": 5310,
             "topics": [
               "css",
               "normalization",
@@ -624,12 +624,12 @@
           "repo_info": {
             "archived": false,
             "description": "The Modern CSS Reset 🚀",
-            "homepage": null,
+            "homepage": "https://ikrishg.github.io/reseter.css",
             "id": 337284161,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:56:04Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-09T17:20:01Z",
+            "open_issues": 17,
             "owner": "ikrishg",
             "repo": "reseter.css",
             "stars": 1238,
@@ -985,7 +985,7 @@
             "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41093,
+            "stars": 41091,
             "topics": [
               "css",
               "css-in-js",
@@ -1070,7 +1070,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5340,
             "topics": [
               "aphrodite",
               "css",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:45:38.727Z",
+    "last_updated": "2026-10-09T17:21:44.692Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
