@@ -17,11 +17,11 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T16:22:10Z",
-                "open_issues": 4711,
+                "last_commit": "2026-10-20T13:22:44Z",
+                "open_issues": 4717,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4893,
+                "stars": 4895,
                 "topics": [
                   "css"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 281,
                 "owner": "w3c",
                 "repo": "css-houdini-drafts",
-                "stars": 1881,
+                "stars": 1882,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:02.799Z"
@@ -76,7 +76,7 @@
             "open_issues": 29,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28966,
+            "stars": 28965,
             "topics": [
               "ast",
               "css",
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "reworkcss",
             "repo": "rework",
-            "stars": 2737,
+            "stars": 2738,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -121,7 +121,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-16T15:23:07Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "csstree",
             "repo": "csstree",
             "stars": 2127,
@@ -284,7 +284,7 @@
             "open_issues": 29,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28966,
+            "stars": 28965,
             "topics": [
               "ast",
               "css",
@@ -307,11 +307,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T03:55:09Z",
+            "last_commit": "2026-10-20T06:18:20Z",
             "open_issues": 189,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17020,
+            "stars": 17017,
             "topics": [
               "css",
               "language",
@@ -333,7 +333,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T01:22:39Z",
-            "open_issues": 117,
+            "open_issues": 116,
             "owner": "sass",
             "repo": "sass",
             "stars": 15370,
@@ -357,7 +357,7 @@
             "open_issues": 17,
             "owner": "thysultan",
             "repo": "stylis",
-            "stars": 1769,
+            "stars": 1770,
             "topics": [
               "css",
               "preprocessor"
@@ -387,7 +387,7 @@
             "open_issues": 86,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97934,
+            "stars": 97949,
             "topics": [
               "css",
               "css-framework",
@@ -522,7 +522,7 @@
             "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9546,
+            "stars": 9549,
             "topics": [
               "awesome",
               "awesome-list",
@@ -558,7 +558,7 @@
             "open_issues": 75,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53509,
+            "stars": 53503,
             "topics": [
               "css",
               "css-reset",
@@ -608,7 +608,7 @@
             "open_issues": 16,
             "owner": "jgthms",
             "repo": "minireset.css",
-            "stars": 2797,
+            "stars": 2798,
             "topics": [
               "css",
               "reset"
@@ -632,7 +632,7 @@
             "open_issues": 0,
             "owner": "ikrishg",
             "repo": "reseter.css",
-            "stars": 1260,
+            "stars": 1262,
             "topics": [
               "css",
               "css-reset",
@@ -853,7 +853,7 @@
             "open_issues": 140,
             "owner": "SC5",
             "repo": "sc5-styleguide",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -982,7 +982,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T02:55:32Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41089,
@@ -1038,7 +1038,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
-            "open_issues": 225,
+            "open_issues": 224,
             "owner": "cssinjs",
             "repo": "jss",
             "stars": 7046,
@@ -1269,7 +1269,7 @@
             "open_issues": 97,
             "owner": "LeaVerou",
             "repo": "prefixfree",
-            "stars": 3780,
+            "stars": 3781,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1290,7 +1290,7 @@
             "open_issues": 117,
             "owner": "lojjic",
             "repo": "PIE",
-            "stars": 2760,
+            "stars": 2759,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1311,7 +1311,7 @@
             "open_issues": 61,
             "owner": "keithclark",
             "repo": "selectivizr",
-            "stars": 1686,
+            "stars": 1685,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:21:06.426Z",
+    "last_updated": "2026-10-20T15:34:08.527Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
