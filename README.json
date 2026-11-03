@@ -17,11 +17,11 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T20:26:26Z",
-                "open_issues": 4745,
+                "last_commit": "2026-11-03T15:36:13Z",
+                "open_issues": 4747,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4902,
+                "stars": 4904,
                 "topics": [
                   "css"
                 ]
@@ -76,7 +76,7 @@
             "open_issues": 29,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28965,
+            "stars": 28966,
             "topics": [
               "ast",
               "css",
@@ -284,7 +284,7 @@
             "open_issues": 29,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28965,
+            "stars": 28966,
             "topics": [
               "ast",
               "css",
@@ -311,7 +311,7 @@
             "open_issues": 192,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17006,
+            "stars": 17004,
             "topics": [
               "css",
               "language",
@@ -332,11 +332,11 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:48:43Z",
-            "open_issues": 119,
+            "last_commit": "2026-11-03T02:14:44Z",
+            "open_issues": 121,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15372,
+            "stars": 15373,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -384,10 +384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T18:51:41Z",
-            "open_issues": 119,
+            "open_issues": 123,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98290,
+            "stars": 98056,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17036,
+            "stars": 17035,
             "topics": [
               "css",
               "javascript",
@@ -558,7 +558,7 @@
             "open_issues": 84,
             "owner": "necolas",
             "repo": "normalize.css",
-            "stars": 53489,
+            "stars": 53488,
             "topics": [
               "css",
               "css-reset",
@@ -981,11 +981,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T20:44:35Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-03T18:05:51Z",
+            "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41057,
+            "stars": 41053,
             "topics": [
               "css",
               "css-in-js",
@@ -1013,7 +1013,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7773,
+            "stars": 7772,
             "topics": [
               "css",
               "css-in-js",
@@ -1070,7 +1070,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "aphrodite",
               "css",
@@ -1096,7 +1096,7 @@
             "open_issues": 31,
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4319,
+            "stars": 4318,
             "topics": [
               "css",
               "loader",
@@ -1269,7 +1269,7 @@
             "open_issues": 97,
             "owner": "LeaVerou",
             "repo": "prefixfree",
-            "stars": 3777,
+            "stars": 3776,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:38:32.508Z",
+    "last_updated": "2026-11-03T18:15:04.357Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
