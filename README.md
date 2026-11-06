@@ -70,12 +70,12 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,904 | 🐛 4,746 | 🌐 Bikeshed | 📅 2026-11-05 - Mirror of CSS WG Editor Draft repository.
-* [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,882 | 🐛 282 | 🌐 Bikeshed | 📅 2026-08-06 - Mirror of Houdini WG Editor repository.
+* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,903 | 🐛 4,744 | 🌐 Bikeshed | 📅 2026-11-06 - Mirror of CSS WG Editor Draft repository.
+* [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,883 | 🐛 282 | 🌐 Bikeshed | 📅 2026-08-06 - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,966 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-02 - Transforming styles with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,964 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-02 - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) ⭐ 2,735 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
 * [CSSTree](https://github.com/csstree/csstree) ⭐ 2,128 | 🐛 83 | 🌐 JavaScript | 📅 2026-09-16 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 758 | 🐛 26 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
@@ -90,10 +90,10 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,966 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-02 - Transforming CSS with JS plugins.
-* [LESS](https://github.com/less/less.js) ⭐ 17,001 | 🐛 192 | 🌐 JavaScript | 📅 2026-10-30 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-* [Sass](https://github.com/sass/sass) ⭐ 15,373 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-05 - Mature, stable, and powerful professional-grade CSS extension language.
-* [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,769 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,964 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-02 - Transforming CSS with JS plugins.
+* [LESS](https://github.com/less/less.js) ⭐ 17,003 | 🐛 193 | 🌐 JavaScript | 📅 2026-10-30 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
+* [Sass](https://github.com/sass/sass) ⭐ 15,372 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-06 - Mature, stable, and powerful professional-grade CSS extension language.
+* [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,768 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 * [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
 
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,084 | 🐛 120 | 🌐 TypeScript | 📅 2026-11-05 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,112 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-06 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -131,7 +131,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 
-*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,576 | 🐛 3 | 🌐 CSS | 📅 2026-06-08*
+*[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,577 | 🐛 4 | 🌐 CSS | 📅 2026-06-08*
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -170,7 +170,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Code Style Guidelines :book:
 
-* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,639 | 🐛 7 | 📅 2022-12-21 by [Nicolas Gallagher](https://twitter.com/necolas)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,637 | 🐛 7 | 📅 2022-12-21 by [Nicolas Gallagher](https://twitter.com/necolas)
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) ⭐ 3,260 | 🐛 181 | 🌐 PHP | 📅 2017-01-01 by ThinkUp
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,208 | 🐛 5 | 📅 2019-11-08 by Dropbox
 * [CSS Styleguide](https://github.com/grvcoelho/css) ⭐ 418 | 🐛 1 | 📅 2016-04-27 by [Guilherme Rv Coelho](https://github.com/grvcoelho)
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,392 | 🐛 824 | 🌐 TypeScript | 📅 2026-11-05 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,390 | 🐛 826 | 🌐 TypeScript | 📅 2026-11-06 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -231,10 +231,10 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,047 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05
+* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,047 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-06
 * [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,770 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
 * [JSS](https://github.com/cssinjs/jss) ⭐ 7,042 | 🐛 224 | 🌐 JavaScript | 📅 2024-08-13
-* [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24
+* [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 90 | 🌐 JavaScript | 📅 2025-07-24
 * [Css-loader](https://github.com/webpack/css-loader) ⚠️ Archived
 * [React-with-styles](https://github.com/airbnb/react-with-styles) ⭐ 1,688 | 🐛 32 | 🌐 JavaScript | 📅 2024-04-12
 * [Csjs](https://github.com/rtsao/csjs) ⭐ 571 | 🐛 20 | 🌐 JavaScript | 📅 2017-02-16
@@ -243,7 +243,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [React-styled](https://github.com/bloodyowl/react-styled) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2016-05-30
 * [Classy](https://github.com/inturn/classy) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-03
 
-Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,471 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02
+Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,470 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -261,7 +261,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) ⭐ 1,587 | 🐛 21 | 🌐 HTML | 📅 2021-07-19 - One `<div>`. Many possibilities.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) ⭐ 876 | 🐛 14 | 🌐 CSS | 📅 2024-07-18 - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
-* [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) ⭐ 316 | 🐛 38 | 🌐 JavaScript | 📅 2025-12-21 - Magic CSS extension for Chrome, Firefox and Edge.
+* [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) ⭐ 315 | 🐛 38 | 🌐 JavaScript | 📅 2025-12-21 - Magic CSS extension for Chrome, Firefox and Edge.
 * [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-28 - Convert xpath to css selector.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
@@ -402,4 +402,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

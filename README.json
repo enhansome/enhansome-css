@@ -17,11 +17,11 @@
                 "id": 9252268,
                 "language": "Bikeshed",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T13:56:39Z",
-                "open_issues": 4746,
+                "last_commit": "2026-11-06T17:25:17Z",
+                "open_issues": 4744,
                 "owner": "w3c",
                 "repo": "csswg-drafts",
-                "stars": 4904,
+                "stars": 4903,
                 "topics": [
                   "css"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 282,
                 "owner": "w3c",
                 "repo": "css-houdini-drafts",
-                "stars": 1882,
+                "stars": 1883,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:20:02.799Z"
@@ -73,10 +73,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T09:14:22Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28966,
+            "stars": 28964,
             "topics": [
               "ast",
               "css",
@@ -281,10 +281,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T09:14:22Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "postcss",
             "repo": "postcss",
-            "stars": 28966,
+            "stars": 28964,
             "topics": [
               "ast",
               "css",
@@ -308,10 +308,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T18:04:56Z",
-            "open_issues": 192,
+            "open_issues": 193,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17001,
+            "stars": 17003,
             "topics": [
               "css",
               "language",
@@ -332,11 +332,11 @@
             "id": 929845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T01:13:16Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-06T00:52:15Z",
+            "open_issues": 123,
             "owner": "sass",
             "repo": "sass",
-            "stars": 15373,
+            "stars": 15372,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -357,7 +357,7 @@
             "open_issues": 17,
             "owner": "thysultan",
             "repo": "stylis",
-            "stars": 1769,
+            "stars": 1768,
             "topics": [
               "css",
               "preprocessor"
@@ -383,11 +383,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T14:39:11Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-06T14:50:08Z",
+            "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98084,
+            "stars": 98112,
             "topics": [
               "css",
               "css-framework",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17035,
+            "stars": 17031,
             "topics": [
               "css",
               "javascript",
@@ -519,10 +519,10 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-06-08T20:32:07Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "troxler",
             "repo": "awesome-css-frameworks",
-            "stars": 9576,
+            "stars": 9577,
             "topics": [
               "awesome",
               "awesome-list",
@@ -738,7 +738,7 @@
             "open_issues": 7,
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6639,
+            "stars": 6637,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -981,7 +981,7 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:10:42Z",
+            "last_commit": "2026-11-06T17:32:23Z",
             "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
@@ -1067,7 +1067,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2025-07-24T18:52:57Z",
-            "open_issues": 91,
+            "open_issues": 90,
             "owner": "Khan",
             "repo": "aphrodite",
             "stars": 5339,
@@ -1269,7 +1269,7 @@
             "open_issues": 97,
             "owner": "LeaVerou",
             "repo": "prefixfree",
-            "stars": 3775,
+            "stars": 3774,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1290,7 +1290,7 @@
             "open_issues": 117,
             "owner": "lojjic",
             "repo": "PIE",
-            "stars": 2759,
+            "stars": 2760,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1357,7 +1357,7 @@
             "open_issues": 16,
             "owner": "philipwalton",
             "repo": "polyfill",
-            "stars": 297,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T21:20:02.799Z"
@@ -1432,7 +1432,7 @@
             "open_issues": 38,
             "owner": "webextensions",
             "repo": "live-css-editor",
-            "stars": 316,
+            "stars": 315,
             "topics": [
               "chrome-extension",
               "css",
@@ -1471,7 +1471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:33:14.763Z",
+    "last_updated": "2026-11-06T17:49:36.544Z",
     "original_repository_info": {
       "archived": false,
       "description": ":art: A curated contents of amazing CSS :)",
@@ -1483,7 +1483,7 @@
       "open_issues": 33,
       "owner": "awesome-css-group",
       "repo": "awesome-css",
-      "stars": 5656,
+      "stars": 5655,
       "topics": [
         "awesome",
         "awesome-list",
