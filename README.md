@@ -70,13 +70,13 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,910 | 🐛 4,793 | 🌐 Bikeshed | 📅 2026-11-14 - Mirror of CSS WG Editor Draft repository.
+* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,910 | 🐛 4,801 | 🌐 Bikeshed | 📅 2026-11-15 - Mirror of CSS WG Editor Draft repository.
 * [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,883 | 🐛 284 | 🌐 Bikeshed | 📅 2026-11-11 - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
 
 * [PostCSS](https://github.com/postcss/postcss) ⭐ 28,968 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-13 - Transforming styles with JS plugins.
-* [Rework](https://github.com/reworkcss/rework) ⭐ 2,735 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
+* [Rework](https://github.com/reworkcss/rework) ⭐ 2,736 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
 * [CSSTree](https://github.com/csstree/csstree) ⭐ 2,130 | 🐛 88 | 🌐 JavaScript | 📅 2026-09-16 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 759 | 🐛 26 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) ⭐ 327 | 🐛 46 | 🌐 JavaScript | 📅 2026-01-17 - CSS parser with support for preprocessors.
@@ -91,7 +91,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *Write CSS faster*
 
 * [PostCSS](https://github.com/postcss/postcss) ⭐ 28,968 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-13 - Transforming CSS with JS plugins.
-* [LESS](https://github.com/less/less.js) ⭐ 17,000 | 🐛 191 | 🌐 JavaScript | 📅 2026-11-11 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
+* [LESS](https://github.com/less/less.js) ⭐ 17,001 | 🐛 192 | 🌐 JavaScript | 📅 2026-11-14 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 * [Sass](https://github.com/sass/sass) ⭐ 15,373 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-13 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,768 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,601 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-11 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,613 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-11 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -143,10 +143,10 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,485 | 🐛 84 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,483 | 🐛 84 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 * [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,309 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
 * [MiniReset.css](https://github.com/jgthms/minireset.css) ⭐ 2,799 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-11 - A tiny modern CSS reset.
-* [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,273 | 🐛 0 | 🌐 CSS | 📅 2026-10-11 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
+* [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,274 | 🐛 0 | 🌐 CSS | 📅 2026-10-11 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
 * [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) ⭐ 783 | 🐛 17 | 🌐 HTML | 📅 2017-09-01 - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 * [CSS Checker](https://github.com/ruilisi/css-checker) ⭐ 588 | 🐛 4 | 🌐 Go | 📅 2022-11-15 - Find and Reduce Similar & Duplicated CSS Scripts.
 * [Unstyle.css](https://github.com/Martin-Pitt/css-unstyle) ⭐ 32 | 🐛 0 | 🌐 CSS | 📅 2024-01-16 - Specialised stylesheet for removing user agent styles, style the web with your baseline.
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,406 | 🐛 851 | 🌐 TypeScript | 📅 2026-11-14 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,407 | 🐛 853 | 🌐 TypeScript | 📅 2026-11-14 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -231,9 +231,9 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,048 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-11
+* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,048 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-15
 * [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,770 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
-* [JSS](https://github.com/cssinjs/jss) ⭐ 7,042 | 🐛 219 | 🌐 JavaScript | 📅 2026-11-14
+* [JSS](https://github.com/cssinjs/jss) ⭐ 7,042 | 🐛 218 | 🌐 JavaScript | 📅 2026-11-15
 * [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 90 | 🌐 JavaScript | 📅 2025-07-24
 * [Css-loader](https://github.com/webpack/css-loader) ⚠️ Archived
 * [React-with-styles](https://github.com/airbnb/react-with-styles) ⭐ 1,690 | 🐛 32 | 🌐 JavaScript | 📅 2024-04-12
@@ -260,7 +260,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Miscellaneous
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) ⭐ 1,587 | 🐛 21 | 🌐 HTML | 📅 2021-07-19 - One `<div>`. Many possibilities.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) ⭐ 877 | 🐛 14 | 🌐 CSS | 📅 2024-07-18 - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) ⭐ 878 | 🐛 14 | 🌐 CSS | 📅 2024-07-18 - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) ⭐ 318 | 🐛 38 | 🌐 JavaScript | 📅 2025-12-21 - Magic CSS extension for Chrome, Firefox and Edge.
 * [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-28 - Convert xpath to css selector.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
@@ -402,4 +402,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
