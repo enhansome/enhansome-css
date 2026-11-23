@@ -70,14 +70,14 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,912 | 🐛 4,814 | 🌐 HTML | 📅 2026-11-21 - Mirror of CSS WG Editor Draft repository.
+* [W3c/csswg-drafts](https://github.com/w3c/csswg-drafts) ⭐ 4,912 | 🐛 4,817 | 🌐 HTML | 📅 2026-11-23 - Mirror of CSS WG Editor Draft repository.
 * [W3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) ⭐ 1,883 | 🐛 285 | 🌐 Bikeshed | 📅 2026-11-11 - Mirror of Houdini WG Editor repository.
 
 ## Parsers :mag:
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,979 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-20 - Transforming styles with JS plugins.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,974 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-23 - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) ⭐ 2,736 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04 - Plugin framework for CSS preprocessing in Node.js.
-* [CSSTree](https://github.com/csstree/csstree) ⭐ 2,130 | 🐛 90 | 🌐 JavaScript | 📅 2026-09-16 - Detailed CSS parser with syntax validator.
+* [CSSTree](https://github.com/csstree/csstree) ⭐ 2,131 | 🐛 89 | 🌐 JavaScript | 📅 2026-09-16 - Detailed CSS parser with syntax validator.
 * [CSSOM](https://github.com/NV/CSSOM) ⭐ 758 | 🐛 26 | 🌐 JavaScript | 📅 2023-04-18 - CSS Object Model implemented in pure JavaScript.
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) ⭐ 327 | 🐛 46 | 🌐 JavaScript | 📅 2026-01-17 - CSS parser with support for preprocessors.
 * [ParserLib](https://github.com/CSSLint/parser-lib) ⭐ 293 | 🐛 24 | 🌐 JavaScript | 📅 2024-12-05 - CSSLint/parser-lib.
@@ -90,9 +90,9 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,979 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-20 - Transforming CSS with JS plugins.
-* [LESS](https://github.com/less/less.js) ⭐ 17,000 | 🐛 194 | 🌐 JavaScript | 📅 2026-11-16 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-* [Sass](https://github.com/sass/sass) ⭐ 15,374 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-20 - Mature, stable, and powerful professional-grade CSS extension language.
+* [PostCSS](https://github.com/postcss/postcss) ⭐ 28,974 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-23 - Transforming CSS with JS plugins.
+* [LESS](https://github.com/less/less.js) ⭐ 17,001 | 🐛 194 | 🌐 JavaScript | 📅 2026-11-16 - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
+* [Sass](https://github.com/sass/sass) ⭐ 15,374 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-23 - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) ⭐ 1,768 | 🐛 18 | 🌐 JavaScript | 📅 2026-04-19 - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 * [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,706 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-20 - A utility-first CSS framework for rapid UI development.
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) ⭐ 98,712 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-23 - A utility-first CSS framework for rapid UI development.
 * [Material-components-web](https://github.com/material-components/material-components-web) ⚠️ Archived - Modular and customizable Material Design UI components for the web.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) ⭐ 256 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 - Feature rich CSS framework for the new decade.
 * [Strawberry](https://github.com/jfet97/strawberry) ⚠️ Archived - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
@@ -143,7 +143,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,483 | 🐛 84 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+* [Normalize](https://github.com/necolas/normalize.css) ⭐ 53,486 | 🐛 84 | 🌐 CSS | 📅 2024-06-12 - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 * [Sanitize.css](https://github.com/jonathantneal/sanitize.css/) ⭐ 5,312 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 - A set of CSS rules that style with today’s best practices out-of-the-box.
 * [MiniReset.css](https://github.com/jgthms/minireset.css) ⭐ 2,798 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-11 - A tiny modern CSS reset.
 * [Reseter.css](https://github.com/krishdevdb/reseter.css) ⭐ 1,273 | 🐛 0 | 🌐 CSS | 📅 2026-10-11 - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
@@ -170,7 +170,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Code Style Guidelines :book:
 
-* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,636 | 🐛 7 | 📅 2022-12-21 by [Nicolas Gallagher](https://twitter.com/necolas)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,635 | 🐛 7 | 📅 2022-12-21 by [Nicolas Gallagher](https://twitter.com/necolas)
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) ⭐ 3,259 | 🐛 181 | 🌐 PHP | 📅 2017-01-01 by ThinkUp
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,208 | 🐛 5 | 📅 2019-11-08 by Dropbox
 * [CSS Styleguide](https://github.com/grvcoelho/css) ⭐ 418 | 🐛 1 | 📅 2016-04-27 by [Guilherme Rv Coelho](https://github.com/grvcoelho)
@@ -188,7 +188,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,426 | 🐛 799 | 🌐 TypeScript | 📅 2026-11-21 by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) ⭐ 20,429 | 🐛 788 | 🌐 TypeScript | 📅 2026-11-23 by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
@@ -224,15 +224,15 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [RSCSS](https://rscss.io/)
-* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname) ⭐ 3,775 | 🐛 20 | 🌐 HTML | 📅 2022-05-29
+* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname) ⭐ 3,774 | 🐛 20 | 🌐 HTML | 📅 2022-05-29
 * [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## CSS in JS
 
-* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,061 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17
-* [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,770 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
+* [Styled-components](https://github.com/styled-components/styled-components) ⭐ 41,053 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17
+* [Styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,769 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09
 * [JSS](https://github.com/cssinjs/jss) ⭐ 7,040 | 🐛 218 | 🌐 JavaScript | 📅 2026-11-15
 * [Aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,336 | 🐛 90 | 🌐 JavaScript | 📅 2025-07-24
 * [Css-loader](https://github.com/webpack/css-loader) ⚠️ Archived
@@ -402,4 +402,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
